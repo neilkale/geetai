@@ -1,45 +1,45 @@
 # गीताई · Geetai
 
-A web reader for **Geetai (गीताई)** — Vinoba Bhave's Marathi rendering of the Bhagavad Gita, written so the verses can be sung in folk meter.
+A web reader for **Geetai (गीताई)**, Vinoba Bhave's Marathi version of the Bhagavad Gita. He wrote it so the verses could be sung in folk meter.
 
-The site reads chapter-by-chapter, with romanization beneath every verse, a names-and-concepts glossary that highlights cross-script, and a one-line essence summary on every verse.
+The site reads chapter by chapter. Every verse has romanization underneath, key names and concepts get a quick description on hover, and you can hover the verse number to see a one-line essence summary.
 
 ## Features
 
-- **All 18 chapters, 699 verses**, rendered as a clean reading site.
-- **ISO 15919 romanization** under every Marathi line, computed with Marathi-aware schwa deletion (so `धर्म` reads `dharma`, not `dharmaa`).
-- **Names & concepts glossary** — 373 annotated entries (people, places, concepts, objects). Hover any annotated word and a tooltip surfaces a short description; both the Marathi form and its romanization light up together.
-- **Per-verse summaries** — one or two sentences capturing the gist of each verse without translating it word-for-word.
-- **Touch-friendly**: on mobile, tooltips become a tap-to-open bottom sheet.
+- All 18 chapters and 699 verses, in a clean reading layout.
+- ISO 15919 romanization beneath every Marathi line, with Marathi-aware schwa deletion (so `धर्म` reads `dharma`, not `dharmaa`).
+- Names and concepts glossary: 373 entries covering people, places, ideas, and objects. Hover any annotated word and a short description pops up. Both the Marathi form and its romanization light up together.
+- Per-verse summaries: one or two sentences telling you what the verse is about without translating it word for word.
+- Touch-friendly. On mobile the tooltips become a tap-to-open bottom sheet.
 
 ## How it works
 
-### PDF as the source of truth
+### Using the PDF as the source of truth
 
-The starting OCR was noisy — conjuncts dropped, anusvaras lost, verse numbers garbled. Rather than trust the OCR, every page of the source PDF is re-transcribed by **Claude (vision) with a JSON schema**, page by page, and merged back into the dataset. Verses that span pages are flagged partial and stitched by adjacency; verse numbers are renumbered 1..N per chapter because the printed margin labels themselves were unreliable.
+The starting OCR was rough. Conjuncts got dropped, anusvaras lost, verse numbers garbled. Instead of cleaning that up by hand, the source PDF gets re-transcribed by Claude (vision) page by page with a JSON schema, and the results get merged back in. Verses that span page breaks are flagged and stitched together by adjacency. Verse numbers are renumbered 1..N per chapter because even the printed margin numbers weren't always right.
 
 ### Romanization
 
-A small script walks the Devanagari with **ISO 15919** mappings and context-sensitive rules:
+A small script walks the Devanagari with ISO 15919 mappings, plus a couple of context-sensitive rules:
 
-- Anusvara `ं` resolves to `ṅ/ñ/ṇ/n/m` depending on the following consonant's place of articulation.
-- Final and pre-pause schwas are dropped (Marathi convention), but compound-internal schwas are preserved.
+- The anusvara `ं` becomes `ṅ`, `ñ`, `ṇ`, `n`, or `m` depending on what consonant follows.
+- Final and pre-pause schwas get dropped (that's the Marathi convention), but schwas inside compounds stay.
 
 ### Glossary
 
-Claude is given each chapter's verses and asked to extract every term a casual reader would want a footnote for — names, places, weapons, philosophical concepts — along with *every inflected form that actually appears in the verse text*. That last part matters: tokenization at render time only matches what's in the lookup table, so epithets like हृषीकेश (Krishna) and गुडाकेश (Arjuna) all need to be enumerated.
+Claude reads each chapter and pulls out everything a casual reader might want a footnote for. Names, places, weapons, philosophical concepts. For each one it lists *every inflected form that actually appears in the text*. That part matters. Tokenization at render time only matches forms that are in the lookup table, so epithets like हृषीकेश (Krishna) or गुडाकेश (Arjuna) need to be enumerated explicitly.
 
 ### Verse summaries
 
-The same pattern: per chapter, Claude returns short neutral summaries — "Krishna says X" / "Arjuna asks Y" — no commentary, no theology, no translation, just the essence. Stored on each verse and surfaced on hover/tap over the verse number.
+Same idea. Per chapter, Claude returns short neutral summaries. "Krishna says X." "Arjuna asks Y." No commentary, no theology, no translation. Just the gist. They get attached to each verse and show up when you hover the verse number.
 
 ## Tech
 
-- **Next.js 15** (App Router, RSC, static prerendering of every chapter)
-- **Tailwind v4** for styling, with semantic class names in `globals.css`
-- **TypeScript**
-- **Claude API** for the data pipeline (vision OCR, glossary extraction, summary generation), driven by small Node scripts under `scripts/`
-- Noto Serif / Noto Sans Devanagari for body type; Tillana for display titles
+- Next.js 15 (App Router, RSC, every chapter prerendered statically)
+- Tailwind v4 with semantic class names in `globals.css`
+- TypeScript
+- Claude API for the data pipeline (vision OCR, glossary extraction, summaries), driven by small Node scripts in `scripts/`
+- Noto Serif and Noto Sans Devanagari for body type. Tillana for display titles.
 
 ## Source
 
