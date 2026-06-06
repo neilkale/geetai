@@ -1,0 +1,5122 @@
+{
+  "entries": [
+    {
+      "id": "abhyasa-vairagya",
+      "category": "concept",
+      "primary_marathi": "अभ्यास-वैराग्य",
+      "primary_roman": "abhyāsa-vairāgya",
+      "marathi_forms": [
+        "अभ्यास-वैराग्यें",
+        "पूर्वाभ्यास-बळानें"
+      ],
+      "roman_forms": [
+        "abhyāsa-vairāgyēn",
+        "pūrvābhyāsa-baḷānēn"
+      ],
+      "description": "Persistent practice and dispassion, the means by which the restless mind is brought under control."
+    },
+    {
+      "id": "abhyasa-yoga",
+      "category": "concept",
+      "primary_marathi": "अभ्यास-योग",
+      "primary_roman": "abhyāsa-yōga",
+      "marathi_forms": [
+        "अभ्यास-योगानें",
+        "अभ्यास"
+      ],
+      "roman_forms": [
+        "abhyāsa-yōgānēm",
+        "abhyās"
+      ],
+      "description": "The yoga of repeated practice; disciplined, sustained effort to steady the mind on the divine."
+    },
+    {
+      "id": "acyuta-pada",
+      "category": "concept",
+      "primary_marathi": "पद अच्युत",
+      "primary_roman": "pad acyut",
+      "marathi_forms": [
+        "पद अच्युत"
+      ],
+      "roman_forms": [
+        "pad acyut"
+      ],
+      "description": "The imperishable state or station, attained by the wise who renounce the fruits of action."
+    },
+    {
+      "id": "adharma",
+      "category": "concept",
+      "primary_marathi": "अधर्म",
+      "primary_roman": "adharm",
+      "marathi_forms": [
+        "अधर्म",
+        "अधर्मास",
+        "अधर्माचें"
+      ],
+      "roman_forms": [
+        "adharm",
+        "adharmās",
+        "adharmācēn"
+      ],
+      "description": "Unrighteousness, the opposite of dharma; a confused intellect mistakes it for dharma."
+    },
+    {
+      "id": "adhibhuta",
+      "category": "concept",
+      "primary_marathi": "अधिभूत",
+      "primary_roman": "adhibhūta",
+      "marathi_forms": [
+        "अधिभूताधिदैवांत"
+      ],
+      "roman_forms": [
+        "adhibhūtādhidaivānt"
+      ],
+      "description": "The principle governing the elements/material beings; one of the aspects in which Krishna is realized at death."
+    },
+    {
+      "id": "adhidaiva",
+      "category": "concept",
+      "primary_marathi": "अधिदैव",
+      "primary_roman": "adhidaiva",
+      "marathi_forms": [
+        "अधिभूताधिदैवांत"
+      ],
+      "roman_forms": [
+        "adhibhūtādhidaivānt"
+      ],
+      "description": "The principle presiding over the gods/cosmic forces; an aspect in which Krishna is to be known."
+    },
+    {
+      "id": "adhishthan",
+      "category": "concept",
+      "primary_marathi": "अधिष्ठान",
+      "primary_roman": "adhiṣṭhān",
+      "marathi_forms": [
+        "अधिष्ठान"
+      ],
+      "roman_forms": [
+        "adhiṣṭhān"
+      ],
+      "description": "The bodily seat or basis, listed first among the five causes of action."
+    },
+    {
+      "id": "adhiyajna",
+      "category": "concept",
+      "primary_marathi": "अधियज्ञ",
+      "primary_roman": "adhiyajña",
+      "marathi_forms": [
+        "अधियज्ञांत"
+      ],
+      "roman_forms": [
+        "adhiyajñānt"
+      ],
+      "description": "The principle presiding over sacrifice (yajña); those who see Krishna in it know him even at the moment of departure."
+    },
+    {
+      "id": "adhyatma",
+      "category": "concept",
+      "primary_marathi": "अध्यात्म",
+      "primary_roman": "adhyātma",
+      "marathi_forms": [
+        "अध्यात्म"
+      ],
+      "roman_forms": [
+        "adhyātm"
+      ],
+      "description": "The principle pertaining to the self; known fully by those who strive to overcome death."
+    },
+    {
+      "id": "aditya",
+      "category": "concept",
+      "primary_marathi": "आदित्य",
+      "primary_roman": "āditya",
+      "marathi_forms": [
+        "आदित्यांत"
+      ],
+      "roman_forms": [
+        "ādityānt"
+      ],
+      "description": "The Adityas, a class of solar deities; Krishna says among them he is Vishnu."
+    },
+    {
+      "id": "agni",
+      "category": "person",
+      "primary_marathi": "अग्नि",
+      "primary_roman": "agni",
+      "marathi_forms": [
+        "अग्नि"
+      ],
+      "roman_forms": [
+        "agni"
+      ],
+      "description": "The fire deity; Krishna says among the Vasus he is Agni."
+    },
+    {
+      "id": "ahankar",
+      "category": "concept",
+      "primary_marathi": "अहंकार",
+      "primary_roman": "ahaṅkār",
+      "marathi_forms": [
+        "अहंकार",
+        "अहंभाव"
+      ],
+      "roman_forms": [
+        "ahaṅkār",
+        "ahambhāv"
+      ],
+      "description": "Ego or the sense of 'I'; listed among the causes of action and as an obstacle to be relinquished."
+    },
+    {
+      "id": "ahankara",
+      "category": "concept",
+      "primary_marathi": "अहंकार",
+      "primary_roman": "ahaṅkāra",
+      "marathi_forms": [
+        "अहंकार"
+      ],
+      "roman_forms": [
+        "ahaṅkār"
+      ],
+      "description": "The ego or sense of 'I'; one of the constituents enumerated as part of the field."
+    },
+    {
+      "id": "ahimsa",
+      "category": "concept",
+      "primary_marathi": "अहिंसा",
+      "primary_roman": "ahiṁsā",
+      "marathi_forms": [
+        "अहिंसा"
+      ],
+      "roman_forms": [
+        "ahiṁsā"
+      ],
+      "description": "Non-injury or non-violence; listed among the components of bodily austerity."
+    },
+    {
+      "id": "airavata",
+      "category": "object",
+      "primary_marathi": "ऐरावत",
+      "primary_roman": "airāvat",
+      "marathi_forms": [
+        "ऐरावत"
+      ],
+      "roman_forms": [
+        "airāvat"
+      ],
+      "description": "Indra's elephant; Krishna says among elephants he is Airavata."
+    },
+    {
+      "id": "ajanma",
+      "category": "concept",
+      "primary_marathi": "अजन्मा",
+      "primary_roman": "ajanmā",
+      "marathi_forms": [
+        "अजन्मा"
+      ],
+      "roman_forms": [
+        "ajanmā"
+      ],
+      "description": "Unborn; an attribute of Krishna's eternal nature that the deluded cannot perceive."
+    },
+    {
+      "id": "akara",
+      "category": "concept",
+      "primary_marathi": "अकार",
+      "primary_roman": "akār",
+      "marathi_forms": [
+        "अकार"
+      ],
+      "roman_forms": [
+        "akār"
+      ],
+      "description": "The letter/sound 'a'; Krishna says among letters he is the akāra."
+    },
+    {
+      "id": "akarma",
+      "category": "concept",
+      "primary_marathi": "अकर्म",
+      "primary_roman": "akarma",
+      "marathi_forms": [
+        "अकर्म",
+        "अकर्मीं"
+      ],
+      "roman_forms": [
+        "akarm",
+        "akarmīṅ"
+      ],
+      "description": "Inaction or non-action; the wise see inaction within action and action within inaction."
+    },
+    {
+      "id": "akasha",
+      "category": "concept",
+      "primary_marathi": "आकाश",
+      "primary_roman": "ākāś",
+      "marathi_forms": [
+        "आकाशांत"
+      ],
+      "roman_forms": [
+        "ākāśānt"
+      ],
+      "description": "Space or sky; likened to the all-pervading container of beings."
+    },
+    {
+      "id": "akshara",
+      "category": "concept",
+      "primary_marathi": "अक्षर",
+      "primary_roman": "akṣar",
+      "marathi_forms": [
+        "अक्षर",
+        "क्षरा-अक्षराहूनि"
+      ],
+      "roman_forms": [
+        "akṣar",
+        "kṣarā-akṣarāhūni"
+      ],
+      "description": "The imperishable; the unchanging one, the second of the two puruṣas in the world."
+    },
+    {
+      "id": "anantavijaya",
+      "category": "object",
+      "primary_marathi": "अनंत-विजय",
+      "primary_roman": "ananta-vijaya",
+      "marathi_forms": [
+        "अनंत-विजय"
+      ],
+      "roman_forms": [
+        "ananta-vijay"
+      ],
+      "description": "The conch of Yudhishthira."
+    },
+    {
+      "id": "ananya-bhava",
+      "category": "concept",
+      "primary_marathi": "अनन्य-भाव",
+      "primary_roman": "ananya-bhāv",
+      "marathi_forms": [
+        "अनन्य-भावें",
+        "अनन्य"
+      ],
+      "roman_forms": [
+        "ananya-bhāvēñ",
+        "anany"
+      ],
+      "description": "Single-minded, undivided devotion to the one Lord."
+    },
+    {
+      "id": "anasakta",
+      "category": "concept",
+      "primary_marathi": "अनासक्त",
+      "primary_roman": "anāsakt",
+      "marathi_forms": [
+        "अनासक्त",
+        "उदासीनापरी"
+      ],
+      "roman_forms": [
+        "anāsakt",
+        "udāsīnāparī"
+      ],
+      "description": "Detached or unattached; the stance by which actions do not bind the Lord."
+    },
+    {
+      "id": "apana",
+      "category": "concept",
+      "primary_marathi": "अपान",
+      "primary_roman": "apāna",
+      "marathi_forms": [
+        "अपान"
+      ],
+      "roman_forms": [
+        "apān"
+      ],
+      "description": "The downward/outgoing vital breath, offered together with prana in the practice of breath control."
+    },
+    {
+      "id": "apara",
+      "category": "concept",
+      "primary_marathi": "अपरा",
+      "primary_roman": "aparā",
+      "marathi_forms": [
+        "अपरा"
+      ],
+      "roman_forms": [
+        "aparā"
+      ],
+      "description": "The lower (material) nature of Krishna, made of the eight elements."
+    },
+    {
+      "id": "arjuna",
+      "category": "person",
+      "primary_marathi": "अर्जुन",
+      "primary_roman": "arjuna",
+      "marathi_forms": [
+        "अर्जुन"
+      ],
+      "roman_forms": [
+        "arjuna"
+      ],
+      "description": "The Pandava prince to whom Krishna speaks; he asks Krishna to describe his manifestations."
+    },
+    {
+      "id": "arpana",
+      "category": "concept",
+      "primary_marathi": "अर्पण",
+      "primary_roman": "arpaṇ",
+      "marathi_forms": [
+        "अर्पण",
+        "अर्पिलें"
+      ],
+      "roman_forms": [
+        "arpaṇ",
+        "arpilēṅ"
+      ],
+      "description": "Offering or dedication; the act of consecrating everything to the Lord."
+    },
+    {
+      "id": "aryama",
+      "category": "person",
+      "primary_marathi": "अर्यमा",
+      "primary_roman": "aryamā",
+      "marathi_forms": [
+        "अर्यमा"
+      ],
+      "roman_forms": [
+        "aryamā"
+      ],
+      "description": "Chief of the ancestral spirits (pitris); Krishna identifies himself with him."
+    },
+    {
+      "id": "asana",
+      "category": "concept",
+      "primary_marathi": "आसन",
+      "primary_roman": "āsan",
+      "marathi_forms": [
+        "आसन"
+      ],
+      "roman_forms": [
+        "āsan"
+      ],
+      "description": "A firm seat, neither too high nor too low, set in a clean place for meditation."
+    },
+    {
+      "id": "ashvattha",
+      "category": "concept",
+      "primary_marathi": "अश्वत्थ",
+      "primary_roman": "aśvatth",
+      "marathi_forms": [
+        "अश्वत्थ"
+      ],
+      "roman_forms": [
+        "aśvatth"
+      ],
+      "description": "The cosmic peepal/fig tree, here imagined with roots above and branches below, symbolizing the world of existence (saṁsāra)."
+    },
+    {
+      "id": "ashvatthama",
+      "category": "person",
+      "primary_marathi": "अश्वत्थामा",
+      "primary_roman": "aśvatthāmā",
+      "marathi_forms": [
+        "अश्वत्थामा"
+      ],
+      "roman_forms": [
+        "aśvatthāmā"
+      ],
+      "description": "Son of Drona and a warrior fighting for the Kauravas."
+    },
+    {
+      "id": "ashvini",
+      "category": "person",
+      "primary_marathi": "अश्विनी",
+      "primary_roman": "aśvinī",
+      "marathi_forms": [
+        "अश्विनी"
+      ],
+      "roman_forms": [
+        "aśvinī"
+      ],
+      "description": "The twin Ashvin deities, physicians of the gods, seen within the cosmic form."
+    },
+    {
+      "id": "asita",
+      "category": "person",
+      "primary_marathi": "अवित",
+      "primary_roman": "avit",
+      "marathi_forms": [
+        "अवित"
+      ],
+      "roman_forms": [
+        "avit"
+      ],
+      "description": "The sage Asita, named alongside Devala among the rishis who praise Krishna."
+    },
+    {
+      "id": "asuri",
+      "category": "concept",
+      "primary_marathi": "आसुरी",
+      "primary_roman": "āsurī",
+      "marathi_forms": [
+        "आसुरी"
+      ],
+      "roman_forms": [
+        "āsurī"
+      ],
+      "description": "Demonic in nature; the faith of those who practice harsh austerities out of pride and torment themselves and the self within."
+    },
+    {
+      "id": "asuri-sampatti",
+      "category": "concept",
+      "primary_marathi": "आसुरी संपत्ति",
+      "primary_roman": "āsurī sampatti",
+      "marathi_forms": [
+        "आसुरी",
+        "आसुरी संपत्ति",
+        "संपत्ति आसुरी",
+        "योनींत आसुरी",
+        "आसुरी योनी"
+      ],
+      "roman_forms": [
+        "āsurī",
+        "āsurī sampatti",
+        "sampatti āsurī",
+        "yōnīnt āsurī",
+        "āsurī yōnī"
+      ],
+      "description": "The 'demoniac endowment' — qualities like hypocrisy, arrogance, anger and cruelty that lead toward bondage and lower births."
+    },
+    {
+      "id": "atma",
+      "category": "concept",
+      "primary_marathi": "आत्मा",
+      "primary_roman": "ātmā",
+      "marathi_forms": [
+        "आत्मा",
+        "आत्म्यास",
+        "आत्म्याची",
+        "आत्म-संयम",
+        "आत्म-ज्ञानीं"
+      ],
+      "roman_forms": [
+        "ātmā",
+        "ātmyās",
+        "ātmyācī",
+        "ātma-saṁyam",
+        "ātma-jñānīṁ"
+      ],
+      "description": "The self or soul that abides in the body without acting or being tainted; sought through meditation and self-restraint."
+    },
+    {
+      "id": "atma-jnana",
+      "category": "concept",
+      "primary_marathi": "आत्म-ज्ञान",
+      "primary_roman": "ātma-jñāna",
+      "marathi_forms": [
+        "आत्म-ज्ञानें",
+        "आत्म-ज्ञानी",
+        "आत्म-शुध्दयर्थ"
+      ],
+      "roman_forms": [
+        "ātma-jñānēn",
+        "ātma-jñānī",
+        "ātma-śudhdayarth"
+      ],
+      "description": "Knowledge of the self, which dispels ignorance and reveals the supreme reality."
+    },
+    {
+      "id": "atma-vidya",
+      "category": "concept",
+      "primary_marathi": "आत्म-विद्या",
+      "primary_roman": "ātma-vidyā",
+      "marathi_forms": [
+        "आत्म-विद्येनें"
+      ],
+      "roman_forms": [
+        "ātma-vidyēnēm"
+      ],
+      "description": "Knowledge of the self, the teaching by which Arjuna says his delusion was removed."
+    },
+    {
+      "id": "atman",
+      "category": "concept",
+      "primary_marathi": "आत्मा",
+      "primary_roman": "ātmā",
+      "marathi_forms": [
+        "आत्म-निष्ठ",
+        "विश्वात्मा"
+      ],
+      "roman_forms": [
+        "ātma-niṣṭh",
+        "viśvātmā"
+      ],
+      "description": "The self or soul; here those steadfast in the self (ātma-niṣṭha) attain the eternal state."
+    },
+    {
+      "id": "atmaupamya",
+      "category": "concept",
+      "primary_marathi": "आत्मौपम्य",
+      "primary_roman": "ātmaupamy",
+      "marathi_forms": [
+        "आत्मौपम्य"
+      ],
+      "roman_forms": [
+        "ātmaupamy"
+      ],
+      "description": "Judging others by analogy with oneself; seeing others' pleasure and pain as one's own marks the highest yogi."
+    },
+    {
+      "id": "avyakta",
+      "category": "concept",
+      "primary_marathi": "अव्यक्त",
+      "primary_roman": "avyakta",
+      "marathi_forms": [
+        "अव्यक्त"
+      ],
+      "roman_forms": [
+        "avyakt"
+      ],
+      "description": "The unmanifest root of nature from which the constituents of the field arise."
+    },
+    {
+      "id": "bhagavan",
+      "category": "person",
+      "primary_marathi": "श्री भगवान्",
+      "primary_roman": "śrī bhagavān",
+      "marathi_forms": [
+        "श्री भगवान्"
+      ],
+      "roman_forms": [
+        "śrī bhagavān"
+      ],
+      "description": "Krishna, who is teaching Arjuna; in this chapter he describes his divine manifestations (vibhūti). The speaker of most verses here."
+    },
+    {
+      "id": "bhakta",
+      "category": "concept",
+      "primary_marathi": "भक्त",
+      "primary_roman": "bhakt",
+      "marathi_forms": [
+        "भक्त",
+        "भक्ताचें"
+      ],
+      "roman_forms": [
+        "bhakt",
+        "bhaktācēṁ"
+      ],
+      "description": "A devotee; the Lord declares his devotee never perishes."
+    },
+    {
+      "id": "bhakti",
+      "category": "concept",
+      "primary_marathi": "भक्ति",
+      "primary_roman": "bhakti",
+      "marathi_forms": [
+        "भक्ति",
+        "भक्त"
+      ],
+      "roman_forms": [
+        "bhakti",
+        "bhakt"
+      ],
+      "description": "Devotion to Krishna; the devotee who realizes this knowledge attains union with him."
+    },
+    {
+      "id": "bhakti-yoga",
+      "category": "concept",
+      "primary_marathi": "भक्ति-योग",
+      "primary_roman": "bhakti-yōga",
+      "marathi_forms": [
+        "भक्ति-योगानें"
+      ],
+      "roman_forms": [
+        "bhakti-yōgānēm"
+      ],
+      "description": "The path of loving devotion, by which one worships the divine with single-minded focus."
+    },
+    {
+      "id": "bharta",
+      "category": "concept",
+      "primary_marathi": "भर्ता",
+      "primary_roman": "bhartā",
+      "marathi_forms": [
+        "भर्ता"
+      ],
+      "roman_forms": [
+        "bhartā"
+      ],
+      "description": "The sustainer or supporter; an epithet of the Lord."
+    },
+    {
+      "id": "bhava",
+      "category": "concept",
+      "primary_marathi": "भाव",
+      "primary_roman": "bhāva",
+      "marathi_forms": [
+        "भाव",
+        "भावांनीं"
+      ],
+      "roman_forms": [
+        "bhāv",
+        "bhāvānnīṁ"
+      ],
+      "description": "States or dispositions arising from the three guṇas, by which the world is deluded."
+    },
+    {
+      "id": "bhima",
+      "category": "person",
+      "primary_marathi": "भीम",
+      "primary_roman": "bhīma",
+      "marathi_forms": [
+        "भीमार्जुनांसह",
+        "भीमें",
+        "भीमानें"
+      ],
+      "roman_forms": [
+        "bhīmārjunāṁsah",
+        "bhīmēm",
+        "bhīmānēṁ"
+      ],
+      "description": "Second of the Pandava brothers, renowned for strength; he protects the Pandava army and blows the conch Paundra."
+    },
+    {
+      "id": "bhishma",
+      "category": "person",
+      "primary_marathi": "भीष्म",
+      "primary_roman": "bhīṣm",
+      "marathi_forms": [
+        "भीष्म",
+        "भीष्मास"
+      ],
+      "roman_forms": [
+        "bhīṣm",
+        "bhīṣmās"
+      ],
+      "description": "The elder Kuru commander on the Kaurava side, among the warriors already doomed in the cosmic vision."
+    },
+    {
+      "id": "bhokta",
+      "category": "concept",
+      "primary_marathi": "भोक्ता",
+      "primary_roman": "bhōktā",
+      "marathi_forms": [
+        "भोक्ता"
+      ],
+      "roman_forms": [
+        "bhōktā"
+      ],
+      "description": "The enjoyer or recipient; the Lord as the one who receives all sacrifices."
+    },
+    {
+      "id": "bhrigu",
+      "category": "person",
+      "primary_marathi": "भृगु",
+      "primary_roman": "bhr̥gu",
+      "marathi_forms": [
+        "भृगु"
+      ],
+      "roman_forms": [
+        "bhr̥gu"
+      ],
+      "description": "A sage; Krishna says among the maharshis he is Bhrigu."
+    },
+    {
+      "id": "bhuta",
+      "category": "concept",
+      "primary_marathi": "भूत",
+      "primary_roman": "bhūta",
+      "marathi_forms": [
+        "भूतें",
+        "भूत-मात्रीं",
+        "भूतांस",
+        "भूतांत",
+        "भूतांचें"
+      ],
+      "roman_forms": [
+        "bhūtēṁ",
+        "bhūta-mātrīn",
+        "bhūtāṁs",
+        "bhūtānt",
+        "bhūtāñcēṁ"
+      ],
+      "description": "The elements or beings; the five gross elements among the constituents of the field, and creatures in general."
+    },
+    {
+      "id": "bhuta-bhavana",
+      "category": "person",
+      "primary_marathi": "भूत-भावन",
+      "primary_roman": "bhūta-bhāvana",
+      "marathi_forms": [
+        "भूत-भावना"
+      ],
+      "roman_forms": [
+        "bhūta-bhāvanā"
+      ],
+      "description": "Epithet of Krishna meaning 'source/originator of beings'; vocative used by Arjuna."
+    },
+    {
+      "id": "bhutesha",
+      "category": "person",
+      "primary_marathi": "भूतेश",
+      "primary_roman": "bhūtēś",
+      "marathi_forms": [
+        "भूतेशा"
+      ],
+      "roman_forms": [
+        "bhūtēśā"
+      ],
+      "description": "Epithet of Krishna meaning 'lord of beings'; vocative used by Arjuna."
+    },
+    {
+      "id": "bija",
+      "category": "concept",
+      "primary_marathi": "बीज",
+      "primary_roman": "bīja",
+      "marathi_forms": [
+        "बीज"
+      ],
+      "roman_forms": [
+        "bīj"
+      ],
+      "description": "The seed which the Lord, as father, sows in the field of Nature to produce all beings."
+    },
+    {
+      "id": "brahma",
+      "category": "concept",
+      "primary_marathi": "ब्रह्म",
+      "primary_roman": "brahma",
+      "marathi_forms": [
+        "ब्रह्म",
+        "ब्रह्म-वाक्यांत",
+        "पर-ब्रह्म",
+        "ब्रह्म-पद",
+        "ब्रह्मत्व"
+      ],
+      "roman_forms": [
+        "brahm",
+        "brahma-vākyānt",
+        "para-brahm",
+        "brahma-pad",
+        "brahmatv"
+      ],
+      "description": "The ultimate, beginningless reality; the absolute that is neither existent nor non-existent in ordinary terms."
+    },
+    {
+      "id": "brahma-marga",
+      "category": "concept",
+      "primary_marathi": "ब्रह्म-मार्ग",
+      "primary_roman": "brahma-mārg",
+      "marathi_forms": [
+        "ब्रह्म-मार्गीं"
+      ],
+      "roman_forms": [
+        "brahma-mārgīm"
+      ],
+      "description": "The path to brahman; Arjuna fears that one bewildered upon it may perish like a scattered cloud."
+    },
+    {
+      "id": "brahma-nirvana",
+      "category": "concept",
+      "primary_marathi": "ब्रह्म-निर्वाण",
+      "primary_roman": "brahma-nirvāṇ",
+      "marathi_forms": [
+        "ब्रह्म-निर्वाण"
+      ],
+      "roman_forms": [
+        "brahma-nirvāṇ"
+      ],
+      "description": "Extinction or merging in Brahman; the state of peace attained by the self-realized yogi."
+    },
+    {
+      "id": "brahmacharya",
+      "category": "concept",
+      "primary_marathi": "ब्रह्मचर्य",
+      "primary_roman": "brahmacary",
+      "marathi_forms": [
+        "ब्रह्मचर्ये"
+      ],
+      "roman_forms": [
+        "brahmacaryē"
+      ],
+      "description": "The discipline of celibacy and study through which seekers pursue the supreme goal."
+    },
+    {
+      "id": "brahmadeva",
+      "category": "person",
+      "primary_marathi": "ब्रह्म-देव",
+      "primary_roman": "brahma-dēva",
+      "marathi_forms": [
+        "ब्रह्म-देवाचा"
+      ],
+      "roman_forms": [
+        "brahma-dēvācā"
+      ],
+      "description": "Brahma the creator, whose single day lasts a thousand yugas and whose night is of equal length."
+    },
+    {
+      "id": "brahmadi-loka",
+      "category": "place",
+      "primary_marathi": "ब्रम्हादि लोक",
+      "primary_roman": "bramhādi lōk",
+      "marathi_forms": [
+        "ब्रम्हादि लोक"
+      ],
+      "roman_forms": [
+        "bramhādi lōk"
+      ],
+      "description": "The worlds beginning with Brahma's realm, from which beings still return to rebirth until they reach the divine."
+    },
+    {
+      "id": "brahman",
+      "category": "concept",
+      "primary_marathi": "ब्रह्म",
+      "primary_roman": "brahm",
+      "marathi_forms": [
+        "ब्रह्म"
+      ],
+      "roman_forms": [
+        "brahm"
+      ],
+      "description": "The supreme reality/absolute; Arjuna addresses Krishna as the supreme Brahman."
+    },
+    {
+      "id": "brahmana",
+      "category": "concept",
+      "primary_marathi": "ब्राह्मण",
+      "primary_roman": "brāhmaṇ",
+      "marathi_forms": [
+        "ब्राह्मणादिक"
+      ],
+      "roman_forms": [
+        "brāhmaṇādik"
+      ],
+      "description": "The first varna; its natural duties include calm, restraint, austerity, purity, and knowledge."
+    },
+    {
+      "id": "brahmananda",
+      "category": "concept",
+      "primary_marathi": "ब्रह्मानंद",
+      "primary_roman": "brahmānand",
+      "marathi_forms": [
+        "ब्रह्मानंद"
+      ],
+      "roman_forms": [
+        "brahmānand"
+      ],
+      "description": "The boundless bliss of brahman, enjoyed by the yogi who has united with the self and burned away faults."
+    },
+    {
+      "id": "brahmarshi",
+      "category": "concept",
+      "primary_marathi": "ब्रह्मर्षि",
+      "primary_roman": "brahmarṣi",
+      "marathi_forms": [
+        "ब्रह्मर्षि"
+      ],
+      "roman_forms": [
+        "brahmarṣi"
+      ],
+      "description": "Sages of the brahmin order; their attainment through devotion is taken for granted."
+    },
+    {
+      "id": "brahmavetta",
+      "category": "concept",
+      "primary_marathi": "ब्रह्मवेत्ता",
+      "primary_roman": "brahmavēttā",
+      "marathi_forms": [
+        "ब्रह्मवेत्यास"
+      ],
+      "roman_forms": [
+        "brahmavētyās"
+      ],
+      "description": "The knower of Brahman, for whom all the Vedas have the limited use that a well has when water is everywhere."
+    },
+    {
+      "id": "brahmi-sthiti",
+      "category": "concept",
+      "primary_marathi": "ब्राह्मी स्थिति",
+      "primary_roman": "brāhmī sthiti",
+      "marathi_forms": [
+        "ब्राह्मी"
+      ],
+      "roman_forms": [
+        "brāhmī"
+      ],
+      "description": "The state established in Brahman, the condition of one who has attained spiritual realization."
+    },
+    {
+      "id": "brihaspati",
+      "category": "person",
+      "primary_marathi": "बृहस्पति",
+      "primary_roman": "br̥haspati",
+      "marathi_forms": [
+        "बृहस्पति"
+      ],
+      "roman_forms": [
+        "br̥haspati"
+      ],
+      "description": "Preceptor of the gods; Krishna says among priests he is Brihaspati."
+    },
+    {
+      "id": "brihat-sama",
+      "category": "concept",
+      "primary_marathi": "बृहत्-साम",
+      "primary_roman": "br̥hat-sām",
+      "marathi_forms": [
+        "बृहत्-साम"
+      ],
+      "roman_forms": [
+        "br̥hat-sām"
+      ],
+      "description": "A chant of the Sama-veda; Krishna says among the Sama hymns he is the Brihat-saman."
+    },
+    {
+      "id": "buddhi",
+      "category": "concept",
+      "primary_marathi": "बुद्धि",
+      "primary_roman": "buddhi",
+      "marathi_forms": [
+        "बुद्धि"
+      ],
+      "roman_forms": [
+        "buddhi"
+      ],
+      "description": "The intellect or faculty of discernment; listed among the elements of the field."
+    },
+    {
+      "id": "buddhi-samskara",
+      "category": "concept",
+      "primary_marathi": "बुद्धि-संस्कार",
+      "primary_roman": "buddhi-saṁskār",
+      "marathi_forms": [
+        "बुद्धि-संस्कार"
+      ],
+      "roman_forms": [
+        "buddhi-saṁskār"
+      ],
+      "description": "The accumulated mental impressions of intellect from a previous life, which the reborn yogi reconnects with to resume his striving."
+    },
+    {
+      "id": "chakra",
+      "category": "object",
+      "primary_marathi": "चक्र",
+      "primary_roman": "cakr",
+      "marathi_forms": [
+        "चक्र"
+      ],
+      "roman_forms": [
+        "cakr"
+      ],
+      "description": "The discus weapon held by Krishna in his four-armed form."
+    },
+    {
+      "id": "chandala",
+      "category": "concept",
+      "primary_marathi": "चांडाळ",
+      "primary_roman": "cāṇḍāḷ",
+      "marathi_forms": [
+        "चांडाळ"
+      ],
+      "roman_forms": [
+        "cāṇḍāḷ"
+      ],
+      "description": "An outcaste; listed with a learned brahmin, a cow, an elephant and a dog as beings the self-knower regards with equal vision."
+    },
+    {
+      "id": "chandra",
+      "category": "person",
+      "primary_marathi": "चंद्र",
+      "primary_roman": "candra",
+      "marathi_forms": [
+        "चंद्रमा"
+      ],
+      "roman_forms": [
+        "candramā"
+      ],
+      "description": "The moon deity; Krishna says among the stars he is the moon."
+    },
+    {
+      "id": "chandraloka",
+      "category": "place",
+      "primary_marathi": "चंद्र लोक",
+      "primary_roman": "candr lōk",
+      "marathi_forms": [
+        "चंद्र लोकास"
+      ],
+      "roman_forms": [
+        "candr lōkās"
+      ],
+      "description": "The realm of the moon reached by those who take the dark path; from there beings return to worldly existence."
+    },
+    {
+      "id": "characharam",
+      "category": "concept",
+      "primary_marathi": "चराचर",
+      "primary_roman": "carācar",
+      "marathi_forms": [
+        "स्वचराचर"
+      ],
+      "roman_forms": [
+        "svacarācar"
+      ],
+      "description": "The moving and unmoving, i.e. all animate and inanimate creation."
+    },
+    {
+      "id": "chekitana",
+      "category": "person",
+      "primary_marathi": "चेकितान",
+      "primary_roman": "cēkitāna",
+      "marathi_forms": [
+        "चेकितान"
+      ],
+      "roman_forms": [
+        "cēkitān"
+      ],
+      "description": "A warrior allied with the Pandavas."
+    },
+    {
+      "id": "chitraratha",
+      "category": "person",
+      "primary_marathi": "चित्ररथ",
+      "primary_roman": "citrarath",
+      "marathi_forms": [
+        "चित्ररथ"
+      ],
+      "roman_forms": [
+        "citrarath"
+      ],
+      "description": "King of the Gandharvas; Krishna says among Gandharvas he is Chitraratha."
+    },
+    {
+      "id": "daitya",
+      "category": "concept",
+      "primary_marathi": "दैत्य",
+      "primary_roman": "daitya",
+      "marathi_forms": [
+        "दैत्यांत"
+      ],
+      "roman_forms": [
+        "daityānt"
+      ],
+      "description": "A class of titans/antagonists of the gods; Krishna says among them he is Prahlada."
+    },
+    {
+      "id": "daiva",
+      "category": "concept",
+      "primary_marathi": "दैव",
+      "primary_roman": "daiv",
+      "marathi_forms": [
+        "दैव"
+      ],
+      "roman_forms": [
+        "daiv"
+      ],
+      "description": "Fate or destiny, named as the fifth of the causes of any action."
+    },
+    {
+      "id": "daivata",
+      "category": "concept",
+      "primary_marathi": "दैवत",
+      "primary_roman": "daivat",
+      "marathi_forms": [
+        "दैवतें"
+      ],
+      "roman_forms": [
+        "daivatēṁ"
+      ],
+      "description": "Deities; those who worship other gods are said to worship the Lord, but indirectly."
+    },
+    {
+      "id": "daivi",
+      "category": "concept",
+      "primary_marathi": "दैवी",
+      "primary_roman": "daivī",
+      "marathi_forms": [
+        "दैवी"
+      ],
+      "roman_forms": [
+        "daivī"
+      ],
+      "description": "Divine; describing Krishna's three-guṇa māyā."
+    },
+    {
+      "id": "daivi-sampatti",
+      "category": "concept",
+      "primary_marathi": "देवी संपत्ति",
+      "primary_roman": "dēvī sampatti",
+      "marathi_forms": [
+        "देवी संपत्ति",
+        "देवी",
+        "देवी आसुरी"
+      ],
+      "roman_forms": [
+        "dēvī sampatti",
+        "dēvī",
+        "dēvī āsurī"
+      ],
+      "description": "The 'divine endowment' — qualities like fearlessness, purity, nonviolence and self-control that lead toward liberation."
+    },
+    {
+      "id": "dakshinayana",
+      "category": "concept",
+      "primary_marathi": "दक्षिणायन",
+      "primary_roman": "dakṣiṇāyan",
+      "marathi_forms": [
+        "दक्षिणायन"
+      ],
+      "roman_forms": [
+        "dakṣiṇāyan"
+      ],
+      "description": "The southern course of the sun; the dark path (smoke, night, waning fortnight) by which the departed reach the moon-realm and return to rebirth."
+    },
+    {
+      "id": "dambha",
+      "category": "concept",
+      "primary_marathi": "दंभ",
+      "primary_roman": "dambh",
+      "marathi_forms": [
+        "दंभ",
+        "दंभें",
+        "दंभ-पूवक"
+      ],
+      "roman_forms": [
+        "dambh",
+        "dambhēṁ",
+        "dambha-pūvak"
+      ],
+      "description": "Hypocrisy or ostentation; acts done for show, characterizing rajas and asuri practice."
+    },
+    {
+      "id": "dana",
+      "category": "concept",
+      "primary_marathi": "दान",
+      "primary_roman": "dān",
+      "marathi_forms": [
+        "दान"
+      ],
+      "roman_forms": [
+        "dān"
+      ],
+      "description": "Charity or giving, listed with sacrifice and austerity as acts to be performed without attachment."
+    },
+    {
+      "id": "danava",
+      "category": "concept",
+      "primary_marathi": "दानव",
+      "primary_roman": "dānav",
+      "marathi_forms": [
+        "दानव"
+      ],
+      "roman_forms": [
+        "dānav"
+      ],
+      "description": "A class of demons; named among beings who cannot know Krishna's true form."
+    },
+    {
+      "id": "darbha",
+      "category": "object",
+      "primary_marathi": "दर्भ",
+      "primary_roman": "darbh",
+      "marathi_forms": [
+        "दर्भ"
+      ],
+      "roman_forms": [
+        "darbh"
+      ],
+      "description": "Kusha grass spread, along with a hide and cloth, to form the seat for meditation."
+    },
+    {
+      "id": "deva",
+      "category": "concept",
+      "primary_marathi": "देव",
+      "primary_roman": "dēv",
+      "marathi_forms": [
+        "देवांचे",
+        "देवांस"
+      ],
+      "roman_forms": [
+        "dēvāñcē",
+        "dēvāṁs"
+      ],
+      "description": "Gods or deities; worshippers of gods attain the gods."
+    },
+    {
+      "id": "deva-deva",
+      "category": "person",
+      "primary_marathi": "देव-देव",
+      "primary_roman": "dēva-dēva",
+      "marathi_forms": [
+        "देव-देवा"
+      ],
+      "roman_forms": [
+        "dēva-dēvā"
+      ],
+      "description": "Epithet of Krishna meaning 'god of gods'; vocative used by Arjuna."
+    },
+    {
+      "id": "devadatta",
+      "category": "object",
+      "primary_marathi": "देव-दत्त",
+      "primary_roman": "dēva-datta",
+      "marathi_forms": [
+        "देव-दत्त"
+      ],
+      "roman_forms": [
+        "dēva-datt"
+      ],
+      "description": "The conch of Arjuna."
+    },
+    {
+      "id": "devala",
+      "category": "person",
+      "primary_marathi": "देवल",
+      "primary_roman": "dēval",
+      "marathi_forms": [
+        "देवल"
+      ],
+      "roman_forms": [
+        "dēval"
+      ],
+      "description": "The sage Devala, named with Asita among the rishis who praise Krishna."
+    },
+    {
+      "id": "devarshi",
+      "category": "person",
+      "primary_marathi": "देवर्षि",
+      "primary_roman": "dēvarṣi",
+      "marathi_forms": [
+        "देवर्षी",
+        "देवर्षींत"
+      ],
+      "roman_forms": [
+        "dēvarṣī",
+        "dēvarṣīnt"
+      ],
+      "description": "Celestial sages; Krishna says among them he is Narada."
+    },
+    {
+      "id": "dham",
+      "category": "concept",
+      "primary_marathi": "धाम",
+      "primary_roman": "dhām",
+      "marathi_forms": [
+        "धाम"
+      ],
+      "roman_forms": [
+        "dhām"
+      ],
+      "description": "The supreme abode of the Lord, self-luminous and not lit by sun, fire, or moon, from which one does not return."
+    },
+    {
+      "id": "dhananjaya",
+      "category": "person",
+      "primary_marathi": "धनंजय",
+      "primary_roman": "dhanañjay",
+      "marathi_forms": [
+        "धनंजय"
+      ],
+      "roman_forms": [
+        "dhanañjay"
+      ],
+      "description": "Epithet of Arjuna ('winner of wealth'); Krishna says he is Dhananjaya among the Pandavas."
+    },
+    {
+      "id": "dhanurdhar",
+      "category": "person",
+      "primary_marathi": "धनुर्धर",
+      "primary_roman": "dhanurdhar",
+      "marathi_forms": [
+        "धनुर्धर"
+      ],
+      "roman_forms": [
+        "dhanurdhar"
+      ],
+      "description": "Epithet meaning bow-wielder, applied to Arjuna in the final verse."
+    },
+    {
+      "id": "dharma",
+      "category": "concept",
+      "primary_marathi": "धर्म",
+      "primary_roman": "dharma",
+      "marathi_forms": [
+        "धर्म"
+      ],
+      "roman_forms": [
+        "dharm"
+      ],
+      "description": "Right conduct/moral law; Krishna says of those who seek victory he is their dharma (just policy)."
+    },
+    {
+      "id": "dharma-sara",
+      "category": "concept",
+      "primary_marathi": "धर्म-सार",
+      "primary_roman": "dharma-sāra",
+      "marathi_forms": [
+        "धर्म-सार"
+      ],
+      "roman_forms": [
+        "dharma-sār"
+      ],
+      "description": "The essence of dharma or righteous duty, which the devout pursue with faith."
+    },
+    {
+      "id": "dharmaraja",
+      "category": "person",
+      "primary_marathi": "धर्मराज",
+      "primary_roman": "dharmarāja",
+      "marathi_forms": [
+        "धर्मराज"
+      ],
+      "roman_forms": [
+        "dharmarāj"
+      ],
+      "description": "An epithet of Yudhishthira, the eldest Pandava."
+    },
+    {
+      "id": "dharmatma",
+      "category": "concept",
+      "primary_marathi": "धर्मात्मा",
+      "primary_roman": "dharmātmā",
+      "marathi_forms": [
+        "धर्मात्मा"
+      ],
+      "roman_forms": [
+        "dharmātmā"
+      ],
+      "description": "A righteous soul; the wayward devotee soon becomes one and gains lasting peace."
+    },
+    {
+      "id": "dharmayuddha",
+      "category": "concept",
+      "primary_marathi": "धर्मयुध्द",
+      "primary_roman": "dharmayudhd",
+      "marathi_forms": [
+        "धर्मयुध्दाहुनी",
+        "धर्मयध्द"
+      ],
+      "roman_forms": [
+        "dharmayudhdāhunī",
+        "dharmayadhd"
+      ],
+      "description": "A war fought in accordance with righteousness; held to be a duty for the warrior class."
+    },
+    {
+      "id": "dhrishtaketu",
+      "category": "person",
+      "primary_marathi": "धृष्टकेतु",
+      "primary_roman": "dhr̥ṣṭakētu",
+      "marathi_forms": [
+        "धृष्टकेतु"
+      ],
+      "roman_forms": [
+        "dhr̥ṣṭakētu"
+      ],
+      "description": "King of Chedi, a warrior on the Pandava side."
+    },
+    {
+      "id": "dhritarashtra",
+      "category": "person",
+      "primary_marathi": "राया",
+      "primary_roman": "rāyā",
+      "marathi_forms": [
+        "राया"
+      ],
+      "roman_forms": [
+        "rāyā"
+      ],
+      "description": "The king Dhritarashtra, addressed by Sanjaya as he narrates the events."
+    },
+    {
+      "id": "dhritarashtra-putra",
+      "category": "person",
+      "primary_marathi": "धृतराष्ट्र-पुत्र",
+      "primary_roman": "dhr̥tarāṣṭra-putr",
+      "marathi_forms": [
+        "धृतराष्ट्र-पुत्र"
+      ],
+      "roman_forms": [
+        "dhr̥tarāṣṭra-putr"
+      ],
+      "description": "The sons of Dhritarashtra, the Kaurava warriors, whom Arjuna sees rushing into Krishna's mouths."
+    },
+    {
+      "id": "dhriti",
+      "category": "concept",
+      "primary_marathi": "धृति",
+      "primary_roman": "dhr̥ti",
+      "marathi_forms": [
+        "धृति",
+        "धृतीचे",
+        "धृतीचा"
+      ],
+      "roman_forms": [
+        "dhr̥ti",
+        "dhr̥tīcē",
+        "dhr̥tīcā"
+      ],
+      "description": "Steadfastness or resolve, classified into sattvic, rajasic, and tamasic kinds."
+    },
+    {
+      "id": "dhyana-yoga",
+      "category": "concept",
+      "primary_marathi": "ध्यान-योग",
+      "primary_roman": "dhyāna-yōg",
+      "marathi_forms": [
+        "ध्यान-योगांत"
+      ],
+      "roman_forms": [
+        "dhyāna-yōgānt"
+      ],
+      "description": "The discipline of meditation in which the seeker becomes absorbed."
+    },
+    {
+      "id": "divya-drishti",
+      "category": "concept",
+      "primary_marathi": "दिव्य दृष्टि",
+      "primary_roman": "divy dr̥ṣṭi",
+      "marathi_forms": [
+        "दिव्य दृष्टि"
+      ],
+      "roman_forms": [
+        "divy dr̥ṣṭi"
+      ],
+      "description": "The divine sight Krishna grants Arjuna so he can behold the cosmic form, which ordinary eyes cannot see."
+    },
+    {
+      "id": "draupadi",
+      "category": "person",
+      "primary_marathi": "द्रौपदी",
+      "primary_roman": "draupadī",
+      "marathi_forms": [
+        "द्रौपदीचे"
+      ],
+      "roman_forms": [
+        "draupadīcē"
+      ],
+      "description": "Daughter of Drupada and wife of the Pandavas; her sons fight on the Pandava side."
+    },
+    {
+      "id": "dravya-yajna",
+      "category": "concept",
+      "primary_marathi": "द्रव्य-यज्ञ",
+      "primary_roman": "dravya-yajña",
+      "marathi_forms": [
+        "द्रव्य",
+        "द्रव्यें"
+      ],
+      "roman_forms": [
+        "dravy",
+        "dravyēñ"
+      ],
+      "description": "Material sacrifice using physical offerings, ranked below the sacrifice of knowledge."
+    },
+    {
+      "id": "drona",
+      "category": "person",
+      "primary_marathi": "द्रोण",
+      "primary_roman": "drōṇ",
+      "marathi_forms": [
+        "द्रोण",
+        "द्रोणास"
+      ],
+      "roman_forms": [
+        "drōṇ",
+        "drōṇās"
+      ],
+      "description": "The teacher of military arts to the Pandavas and Kauravas, fighting for the Kauravas."
+    },
+    {
+      "id": "drupada",
+      "category": "person",
+      "primary_marathi": "द्रुपद",
+      "primary_roman": "drupada",
+      "marathi_forms": [
+        "द्रुपद"
+      ],
+      "roman_forms": [
+        "drupad"
+      ],
+      "description": "King of Panchala, father of Draupadi and Dhrishtadyumna, a warrior on the Pandava side."
+    },
+    {
+      "id": "drupadatmaja",
+      "category": "person",
+      "primary_marathi": "द्रुपदात्मज",
+      "primary_roman": "drupadātmaja",
+      "marathi_forms": [
+        "द्रुपदात्मज"
+      ],
+      "roman_forms": [
+        "drupadātmaj"
+      ],
+      "description": "\"Son of Drupada,\" i.e. Dhrishtadyumna, the commander who arrayed the Pandava army."
+    },
+    {
+      "id": "durachari",
+      "category": "concept",
+      "primary_marathi": "दुराचारी",
+      "primary_roman": "durācārī",
+      "marathi_forms": [
+        "दुराचारी"
+      ],
+      "roman_forms": [
+        "durācārī"
+      ],
+      "description": "An evildoer; even such a one, if devoted single-mindedly, is to be regarded as virtuous."
+    },
+    {
+      "id": "duryodhana",
+      "category": "person",
+      "primary_marathi": "दुर्योधन",
+      "primary_roman": "duryōdhana",
+      "marathi_forms": [
+        "दुर्योधनें"
+      ],
+      "roman_forms": [
+        "duryōdhanēn"
+      ],
+      "description": "Eldest son of Dhritarashtra and leader of the Kaurava forces."
+    },
+    {
+      "id": "dvandva",
+      "category": "concept",
+      "primary_marathi": "व्दंव्द",
+      "primary_roman": "vdaṁvd",
+      "marathi_forms": [
+        "व्दंव्द"
+      ],
+      "roman_forms": [
+        "vdaṁvd"
+      ],
+      "description": "The dvandva (copulative) compound; Krishna says among grammatical compounds he is the dvandva."
+    },
+    {
+      "id": "dvija",
+      "category": "concept",
+      "primary_marathi": "द्विज",
+      "primary_roman": "dvij",
+      "marathi_forms": [
+        "द्विज"
+      ],
+      "roman_forms": [
+        "dvij"
+      ],
+      "description": "A \"twice-born\" person learned and humble; cited as one whom the wise see equally with all other beings."
+    },
+    {
+      "id": "ekakshara",
+      "category": "concept",
+      "primary_marathi": "एकाक्षर",
+      "primary_roman": "ēkākṣar",
+      "marathi_forms": [
+        "एकाक्षर"
+      ],
+      "roman_forms": [
+        "ēkākṣar"
+      ],
+      "description": "The single syllable (Om); Krishna says among utterances he is the one syllable, and among letters he is 'a' (akāra)."
+    },
+    {
+      "id": "gada",
+      "category": "object",
+      "primary_marathi": "गदा",
+      "primary_roman": "gadā",
+      "marathi_forms": [
+        "गदा",
+        "गदा-चक्र-किरीट-धारी"
+      ],
+      "roman_forms": [
+        "gadā",
+        "gadā-cakra-kirīṭa-dhārī"
+      ],
+      "description": "The mace carried by Krishna in his four-armed form, which Arjuna asks him to take up again."
+    },
+    {
+      "id": "gandharva",
+      "category": "concept",
+      "primary_marathi": "गंधर्व",
+      "primary_roman": "gandharva",
+      "marathi_forms": [
+        "गंधर्वीं"
+      ],
+      "roman_forms": [
+        "gandharvīṁ"
+      ],
+      "description": "Celestial musicians; Krishna says among Gandharvas he is Chitraratha."
+    },
+    {
+      "id": "gandiva",
+      "category": "object",
+      "primary_marathi": "गांडीव",
+      "primary_roman": "gāṇḍīva",
+      "marathi_forms": [
+        "गांडीव"
+      ],
+      "roman_forms": [
+        "gāṇḍīv"
+      ],
+      "description": "Arjuna's bow, which slips from his hand as his resolve weakens."
+    },
+    {
+      "id": "ganga",
+      "category": "place",
+      "primary_marathi": "गंगा",
+      "primary_roman": "gaṅgā",
+      "marathi_forms": [
+        "गंगा"
+      ],
+      "roman_forms": [
+        "gaṅgā"
+      ],
+      "description": "The river Ganga; Krishna says among rivers he is the Ganga."
+    },
+    {
+      "id": "gayatri",
+      "category": "concept",
+      "primary_marathi": "गायत्री",
+      "primary_roman": "gāyatrī",
+      "marathi_forms": [
+        "गायत्री"
+      ],
+      "roman_forms": [
+        "gāyatrī"
+      ],
+      "description": "The Gayatri metre/mantra; Krishna says among metres he is the Gayatri."
+    },
+    {
+      "id": "guna",
+      "category": "concept",
+      "primary_marathi": "गुण",
+      "primary_roman": "guṇa",
+      "marathi_forms": [
+        "गुण",
+        "गुणात्मक",
+        "गुणांत"
+      ],
+      "roman_forms": [
+        "guṇ",
+        "guṇātmak"
+      ],
+      "description": "The qualities or strands of nature (prakṛti) that bind the embodied self and determine its rebirths."
+    },
+    {
+      "id": "hari",
+      "category": "person",
+      "primary_marathi": "हरि",
+      "primary_roman": "hari",
+      "marathi_forms": [
+        "हरीचें"
+      ],
+      "roman_forms": [
+        "harīcēṁ"
+      ],
+      "description": "Name of Vishnu/Krishna; Sanjaya recalls Hari's form with wonder."
+    },
+    {
+      "id": "havya",
+      "category": "concept",
+      "primary_marathi": "हव्य",
+      "primary_roman": "havy",
+      "marathi_forms": [
+        "हव्य"
+      ],
+      "roman_forms": [
+        "havy"
+      ],
+      "description": "The oblation offered into the sacrificial fire."
+    },
+    {
+      "id": "himalaya",
+      "category": "place",
+      "primary_marathi": "हिमालय",
+      "primary_roman": "himālay",
+      "marathi_forms": [
+        "हिमालय"
+      ],
+      "roman_forms": [
+        "himālay"
+      ],
+      "description": "The Himalaya range; Krishna says among immovable things he is Himalaya."
+    },
+    {
+      "id": "homa",
+      "category": "concept",
+      "primary_marathi": "होम",
+      "primary_roman": "hōm",
+      "marathi_forms": [
+        "होमिसी"
+      ],
+      "roman_forms": [
+        "hōmisī"
+      ],
+      "description": "Offering oblations into fire; an act to be dedicated to the Lord."
+    },
+    {
+      "id": "hrishikesha",
+      "category": "person",
+      "primary_marathi": "हृषीकेश",
+      "primary_roman": "hr̥ṣīkēś",
+      "marathi_forms": [
+        "हृषीकेशास",
+        "हृषीकेश"
+      ],
+      "roman_forms": [
+        "hr̥ṣīkēśās",
+        "hr̥ṣīkēś"
+      ],
+      "description": "Epithet of Krishna meaning lord of the senses."
+    },
+    {
+      "id": "ikshvaku",
+      "category": "person",
+      "primary_marathi": "इक्ष्वाकू",
+      "primary_roman": "ikṣvāku",
+      "marathi_forms": [
+        "इक्ष्वाकूस"
+      ],
+      "roman_forms": [
+        "ikṣvākūs"
+      ],
+      "description": "The king to whom Manu transmitted the teaching of yoga, continuing the ancient lineage."
+    },
+    {
+      "id": "indra",
+      "category": "person",
+      "primary_marathi": "इंद्र",
+      "primary_roman": "indr",
+      "marathi_forms": [
+        "इंद्र"
+      ],
+      "roman_forms": [
+        "indr"
+      ],
+      "description": "King of the gods; Krishna says among the gods he is Indra."
+    },
+    {
+      "id": "indriya",
+      "category": "concept",
+      "primary_marathi": "इंद्रिय",
+      "primary_roman": "indriya",
+      "marathi_forms": [
+        "इंद्रियें",
+        "इंद्रियातीत",
+        "देहेंद्रियांचे"
+      ],
+      "roman_forms": [
+        "indriyēṁ",
+        "indriyātīt",
+        "dēhēndriyāñcē"
+      ],
+      "description": "The senses; the eleven sense-faculties counted among the elements of the field."
+    },
+    {
+      "id": "jagadishvara",
+      "category": "person",
+      "primary_marathi": "जगदीश्वर",
+      "primary_roman": "jagadīśvar",
+      "marathi_forms": [
+        "जगदीश्वरा"
+      ],
+      "roman_forms": [
+        "jagadīśvarā"
+      ],
+      "description": "An epithet of Krishna meaning lord of the world."
+    },
+    {
+      "id": "jagannatha",
+      "category": "person",
+      "primary_marathi": "जगन्नाथ",
+      "primary_roman": "jagannāth",
+      "marathi_forms": [
+        "जगन्नाथा"
+      ],
+      "roman_forms": [
+        "jagannāthā"
+      ],
+      "description": "Epithet of Krishna meaning 'lord of the world'; vocative used by Arjuna."
+    },
+    {
+      "id": "janaka",
+      "category": "person",
+      "primary_marathi": "जनक",
+      "primary_roman": "janaka",
+      "marathi_forms": [
+        "जनकादिक"
+      ],
+      "roman_forms": [
+        "janakādik"
+      ],
+      "description": "King Janaka and others like him; cited as examples of those who attained perfection through action ('जनकादिक' = Janaka and the rest)."
+    },
+    {
+      "id": "janardana",
+      "category": "person",
+      "primary_marathi": "जनार्दन",
+      "primary_roman": "janārdana",
+      "marathi_forms": [
+        "जनार्दना"
+      ],
+      "roman_forms": [
+        "janārdanā"
+      ],
+      "description": "Epithet of Krishna; used by Arjuna while addressing him about the yoga of equanimity."
+    },
+    {
+      "id": "jara-mrityu",
+      "category": "concept",
+      "primary_marathi": "जरा-मृत्यु",
+      "primary_roman": "jarā-mr̥tyu",
+      "marathi_forms": [
+        "जरा-मृत्यु"
+      ],
+      "roman_forms": [
+        "jarā-mr̥tyu"
+      ],
+      "description": "Old age and death; the devotees take refuge in Krishna to overcome them."
+    },
+    {
+      "id": "jayadratha",
+      "category": "person",
+      "primary_marathi": "जयद्रथ",
+      "primary_roman": "jayadrath",
+      "marathi_forms": [
+        "जयद्रथास"
+      ],
+      "roman_forms": [
+        "jayadrathās"
+      ],
+      "description": "A Kaurava-side king named among the warriors Krishna declares already destroyed."
+    },
+    {
+      "id": "jijnasu",
+      "category": "concept",
+      "primary_marathi": "जिज्ञासू",
+      "primary_roman": "jijñāsū",
+      "marathi_forms": [
+        "जिज्ञासू"
+      ],
+      "roman_forms": [
+        "jijñāsū"
+      ],
+      "description": "The seeker of knowledge; one of the four kinds of devotees who worship Krishna."
+    },
+    {
+      "id": "jitatma",
+      "category": "concept",
+      "primary_marathi": "जितात्मा",
+      "primary_roman": "jitātmā",
+      "marathi_forms": [
+        "जितात्मा"
+      ],
+      "roman_forms": [
+        "jitātmā"
+      ],
+      "description": "One who has conquered the self, remaining peaceful and seeing brahman alone amid honor and dishonor, heat and cold, pleasure and pain."
+    },
+    {
+      "id": "jiva",
+      "category": "concept",
+      "primary_marathi": "जीव",
+      "primary_roman": "jīv",
+      "marathi_forms": [
+        "जीव"
+      ],
+      "roman_forms": [
+        "jīv"
+      ],
+      "description": "The eternal individual living being, here described as an eternal portion (aṁśa) of the Lord in the world."
+    },
+    {
+      "id": "jnana",
+      "category": "concept",
+      "primary_marathi": "ज्ञान",
+      "primary_roman": "jñāna",
+      "marathi_forms": [
+        "ज्ञान",
+        "ज्ञानानें",
+        "ज्ञानीं",
+        "ज्ञान-दृष्टीनें",
+        "ज्ञानाचें"
+      ],
+      "roman_forms": [
+        "jñān",
+        "jñānānēṁ",
+        "jñānīṁ",
+        "jñāna-dr̥ṣṭīnēṅ",
+        "jñānācēñ"
+      ],
+      "description": "Knowledge; here the discernment of the difference between the field and the knower of the field."
+    },
+    {
+      "id": "jnana-darshan",
+      "category": "concept",
+      "primary_marathi": "ज्ञान-दर्शन",
+      "primary_roman": "jñāna-darśan",
+      "marathi_forms": [
+        "ज्ञान-दर्शन"
+      ],
+      "roman_forms": [
+        "jñāna-darśan"
+      ],
+      "description": "The vision born of knowledge, attainable through exclusive devotion, leading to entry into Krishna."
+    },
+    {
+      "id": "jnana-vijnana",
+      "category": "concept",
+      "primary_marathi": "ज्ञान-विज्ञान",
+      "primary_roman": "jñāna-vijñāna",
+      "marathi_forms": [
+        "ज्ञान-विज्ञानें"
+      ],
+      "roman_forms": [
+        "jñāna-vijñānēṁ"
+      ],
+      "description": "Knowledge and realized/experiential knowledge; the yogi content with both views gold, stone and clay alike."
+    },
+    {
+      "id": "jnana-yajna",
+      "category": "concept",
+      "primary_marathi": "ज्ञान-यज्ञ",
+      "primary_roman": "jñāna-yajñ",
+      "marathi_forms": [
+        "ज्ञान-यज्ञ"
+      ],
+      "roman_forms": [
+        "jñāna-yajñ"
+      ],
+      "description": "The sacrifice of knowledge; one who studies this dialogue is said to worship Krishna by it."
+    },
+    {
+      "id": "jnanagni",
+      "category": "concept",
+      "primary_marathi": "ज्ञानाग्नि",
+      "primary_roman": "jñānāgni",
+      "marathi_forms": [
+        "ज्ञानाग्नि"
+      ],
+      "roman_forms": [
+        "jñānāgni"
+      ],
+      "description": "The fire of knowledge, which reduces all actions to ashes as a kindled fire turns wood to ash."
+    },
+    {
+      "id": "jnani",
+      "category": "concept",
+      "primary_marathi": "ज्ञानी",
+      "primary_roman": "jñānī",
+      "marathi_forms": [
+        "ज्ञानी"
+      ],
+      "roman_forms": [
+        "jñānī"
+      ],
+      "description": "One possessed of knowledge or wisdom; here, a knower devoted to the welfare of all beings."
+    },
+    {
+      "id": "jneya",
+      "category": "concept",
+      "primary_marathi": "ज्ञेय",
+      "primary_roman": "jñēya",
+      "marathi_forms": [
+        "ज्ञेय",
+        "ज्ञेय-दर्शन"
+      ],
+      "roman_forms": [
+        "jñēy",
+        "jñēya-darśan"
+      ],
+      "description": "That which is to be known — the supreme reality, knowing which one attains immortality."
+    },
+    {
+      "id": "kaivalya-pada",
+      "category": "concept",
+      "primary_marathi": "कैवल्य-पद",
+      "primary_roman": "kaivalya-pada",
+      "marathi_forms": [
+        "कैवल्य-पद"
+      ],
+      "roman_forms": [
+        "kaivalya-pad"
+      ],
+      "description": "The state of liberation/absolute freedom attained by acting without attachment."
+    },
+    {
+      "id": "kala",
+      "category": "concept",
+      "primary_marathi": "काळ",
+      "primary_roman": "kāḷ",
+      "marathi_forms": [
+        "काळ"
+      ],
+      "roman_forms": [
+        "kāḷ"
+      ],
+      "description": "Time, which Krishna declares himself to be, the destroyer of worlds, grown ready to consume the people."
+    },
+    {
+      "id": "kalpa",
+      "category": "concept",
+      "primary_marathi": "कल्प",
+      "primary_roman": "kalp",
+      "marathi_forms": [
+        "कल्पांतीं",
+        "कल्पारंभीं"
+      ],
+      "roman_forms": [
+        "kalpāntīn",
+        "kalpārambhīm"
+      ],
+      "description": "A cosmic age; at its end (kalpānta) beings dissolve and at its start (kalpārambha) they are awakened again."
+    },
+    {
+      "id": "kama",
+      "category": "concept",
+      "primary_marathi": "काम",
+      "primary_roman": "kām",
+      "marathi_forms": [
+        "काम"
+      ],
+      "roman_forms": [
+        "kām"
+      ],
+      "description": "Desire; Krishna says he is desire (kāma) that is not contrary to dharma, the cause of generation."
+    },
+    {
+      "id": "kama-dhenu",
+      "category": "concept",
+      "primary_marathi": "काम-धेनु",
+      "primary_roman": "kāma-dhēnu",
+      "marathi_forms": [
+        "काम-धेनु"
+      ],
+      "roman_forms": [
+        "kāma-dhēnu"
+      ],
+      "description": "The wish-fulfilling cow; here a metaphor for sacrifice as the granter of all desires."
+    },
+    {
+      "id": "kama-krodha",
+      "category": "concept",
+      "primary_marathi": "काम-क्रोध",
+      "primary_roman": "kāma-krōdh",
+      "marathi_forms": [
+        "काम-क्रोधांतले",
+        "काम-क्रोधांस"
+      ],
+      "roman_forms": [
+        "kāma-krōdhāntalē",
+        "kāma-krōdhāṁs"
+      ],
+      "description": "Desire and anger; mastering their urges is essential to becoming a true yogi."
+    },
+    {
+      "id": "kama-mudha",
+      "category": "concept",
+      "primary_marathi": "काम-मूढ",
+      "primary_roman": "kāma-mūḍh",
+      "marathi_forms": [
+        "काम-मूढ"
+      ],
+      "roman_forms": [
+        "kāma-mūḍh"
+      ],
+      "description": "Those deluded by desire who pursue heaven and remain caught in coming and going."
+    },
+    {
+      "id": "kamadhenu",
+      "category": "object",
+      "primary_marathi": "काम-धेनु",
+      "primary_roman": "kāma-dhēnu",
+      "marathi_forms": [
+        "काम-धेनु"
+      ],
+      "roman_forms": [
+        "kāma-dhēnu"
+      ],
+      "description": "The wish-fulfilling cow; Krishna says among cows he is Kamadhenu."
+    },
+    {
+      "id": "kapi-dhvaja",
+      "category": "object",
+      "primary_marathi": "कपि ध्वज",
+      "primary_roman": "kapi dhvaja",
+      "marathi_forms": [
+        "कपि ध्वज"
+      ],
+      "roman_forms": [
+        "kapi dhvaj"
+      ],
+      "description": "The monkey-bannered chariot of Arjuna, named for the figure of Hanuman on its flag."
+    },
+    {
+      "id": "kapila",
+      "category": "person",
+      "primary_marathi": "कपिल",
+      "primary_roman": "kapil",
+      "marathi_forms": [
+        "कपिल"
+      ],
+      "roman_forms": [
+        "kapil"
+      ],
+      "description": "The sage Kapila, founder of Samkhya; Krishna says among the perfected ones (siddhas) he is Kapila."
+    },
+    {
+      "id": "karma",
+      "category": "concept",
+      "primary_marathi": "कर्म",
+      "primary_roman": "karm",
+      "marathi_forms": [
+        "कर्म",
+        "कर्में",
+        "कर्माचें",
+        "कर्मीं",
+        "कर्मांत"
+      ],
+      "roman_forms": [
+        "karm",
+        "karmēṁ",
+        "karmācēṁ",
+        "karmīṁ",
+        "karmānt"
+      ],
+      "description": "Action or work; the chapter analyzes its causes, fruits, and threefold qualitative types."
+    },
+    {
+      "id": "karma-yoga",
+      "category": "concept",
+      "primary_marathi": "कर्म-योग",
+      "primary_roman": "karma-yōga",
+      "marathi_forms": [
+        "कर्म-योगें"
+      ],
+      "roman_forms": [
+        "karma-yōgēṁ"
+      ],
+      "description": "The path of disciplined action by which others realize the self."
+    },
+    {
+      "id": "karna",
+      "category": "person",
+      "primary_marathi": "कर्ण",
+      "primary_roman": "karṇ",
+      "marathi_forms": [
+        "कर्ण",
+        "कर्णादि"
+      ],
+      "roman_forms": [
+        "karṇ",
+        "karṇādi"
+      ],
+      "description": "A warrior allied with the Kauravas, named among those Krishna says are already slain."
+    },
+    {
+      "id": "kashya",
+      "category": "person",
+      "primary_marathi": "काश्य",
+      "primary_roman": "kāśya",
+      "marathi_forms": [
+        "काश्य"
+      ],
+      "roman_forms": [
+        "kāśy"
+      ],
+      "description": "The king of Kashi (Varanasi), an archer fighting for the Pandavas."
+    },
+    {
+      "id": "kaurava",
+      "category": "concept",
+      "primary_marathi": "कौरव",
+      "primary_roman": "kaurava",
+      "marathi_forms": [
+        "कौरवांची",
+        "कौरव",
+        "कौरवांस"
+      ],
+      "roman_forms": [
+        "kauravāñcī",
+        "kaurav",
+        "kauravāṁs"
+      ],
+      "description": "The sons of Dhritarashtra and their army, the side led by Duryodhana."
+    },
+    {
+      "id": "keshava",
+      "category": "person",
+      "primary_marathi": "केशव",
+      "primary_roman": "kēśava",
+      "marathi_forms": [
+        "केशवा"
+      ],
+      "roman_forms": [
+        "kēśavā"
+      ],
+      "description": "Epithet of Krishna, addressed by Arjuna."
+    },
+    {
+      "id": "kirita",
+      "category": "object",
+      "primary_marathi": "किरीट",
+      "primary_roman": "kirīṭ",
+      "marathi_forms": [
+        "किरीट"
+      ],
+      "roman_forms": [
+        "kirīṭ"
+      ],
+      "description": "The crown worn by Krishna in his four-armed form, which Arjuna wishes to see again."
+    },
+    {
+      "id": "kirtan",
+      "category": "concept",
+      "primary_marathi": "कीर्तन",
+      "primary_roman": "kīrtan",
+      "marathi_forms": [
+        "कीर्तनें"
+      ],
+      "roman_forms": [
+        "kīrtanēm"
+      ],
+      "description": "Singing the praises of the Lord as a form of worship."
+    },
+    {
+      "id": "kripa",
+      "category": "person",
+      "primary_marathi": "कृप",
+      "primary_roman": "kr̥pa",
+      "marathi_forms": [
+        "कृप"
+      ],
+      "roman_forms": [
+        "kr̥p"
+      ],
+      "description": "Kripacharya, a teacher and warrior on the Kaurava side."
+    },
+    {
+      "id": "krishna",
+      "category": "person",
+      "primary_marathi": "कृष्ण",
+      "primary_roman": "kr̥ṣṇa",
+      "marathi_forms": [
+        "कृष्णा",
+        "कृष्ण",
+        "कृष्णाच्या"
+      ],
+      "roman_forms": [
+        "kr̥ṣṇā",
+        "kr̥ṣṇ",
+        "kr̥ṣṇācyā"
+      ],
+      "description": "Arjuna's charioteer and teacher who speaks the Gita's teaching; also appears in the compound कृष्णार्जुन. Addressed by Sanjaya as योगेश्वर (lord of yoga)."
+    },
+    {
+      "id": "krishnapaksha",
+      "category": "concept",
+      "primary_marathi": "कृष्णार्ध",
+      "primary_roman": "kr̥ṣṇārdh",
+      "marathi_forms": [
+        "कृष्णार्ध"
+      ],
+      "roman_forms": [
+        "kr̥ṣṇārdh"
+      ],
+      "description": "The dark half of the lunar month, part of the path leading back to rebirth."
+    },
+    {
+      "id": "krodha",
+      "category": "concept",
+      "primary_marathi": "क्रोध",
+      "primary_roman": "krōdha",
+      "marathi_forms": [
+        "क्रोध"
+      ],
+      "roman_forms": [
+        "krōdh"
+      ],
+      "description": "Anger; arising together with desire from the rajas quality, named as an enemy."
+    },
+    {
+      "id": "kshara",
+      "category": "concept",
+      "primary_marathi": "क्षर",
+      "primary_roman": "kṣar",
+      "marathi_forms": [
+        "क्षर",
+        "क्षरा-अक्षराहूनि"
+      ],
+      "roman_forms": [
+        "kṣar",
+        "kṣarā-akṣarāhūni"
+      ],
+      "description": "The perishable; the term for all changeable beings, one of the two puruṣas in the world."
+    },
+    {
+      "id": "kshatra",
+      "category": "concept",
+      "primary_marathi": "क्षात्र",
+      "primary_roman": "kṣātr",
+      "marathi_forms": [
+        "क्षात्र"
+      ],
+      "roman_forms": [
+        "kṣātr"
+      ],
+      "description": "The duties natural to the kshatriya (warrior) class: valor, firmness, protecting people, generosity, and leadership."
+    },
+    {
+      "id": "kshatriya",
+      "category": "concept",
+      "primary_marathi": "क्षत्रिय",
+      "primary_roman": "kṣatriy",
+      "marathi_forms": [
+        "क्षत्रियास"
+      ],
+      "roman_forms": [
+        "kṣatriyās"
+      ],
+      "description": "The warrior-ruler class whose duty includes righteous combat."
+    },
+    {
+      "id": "kshetra",
+      "category": "concept",
+      "primary_marathi": "क्षेत्र",
+      "primary_roman": "kṣētra",
+      "marathi_forms": [
+        "क्षेत्र",
+        "शरीरास",
+        "क्षेत्रांत"
+      ],
+      "roman_forms": [
+        "kṣētr",
+        "śarīrās",
+        "kṣētrānt"
+      ],
+      "description": "The 'field' — the body and its constituents, the object of knowledge as opposed to the knower."
+    },
+    {
+      "id": "kshetrajna",
+      "category": "concept",
+      "primary_marathi": "क्षेत्र-ज्ञ",
+      "primary_roman": "kṣētra-jña",
+      "marathi_forms": [
+        "क्षेत्र-ज्ञ",
+        "क्षेत्रज्ञ"
+      ],
+      "roman_forms": [
+        "kṣētra-jñ",
+        "kṣētrajñ"
+      ],
+      "description": "The 'knower of the field' — the conscious self or spirit that dwells in the body; identified by Krishna with himself."
+    },
+    {
+      "id": "kubera",
+      "category": "person",
+      "primary_marathi": "कुबेर",
+      "primary_roman": "kubēr",
+      "marathi_forms": [
+        "कुबेर"
+      ],
+      "roman_forms": [
+        "kubēr"
+      ],
+      "description": "Lord of wealth and the Yakshas; Krishna identifies himself with him among Yakshas and Rakshasas."
+    },
+    {
+      "id": "kula-dharma",
+      "category": "concept",
+      "primary_marathi": "कुल-धर्म",
+      "primary_roman": "kula-dharma",
+      "marathi_forms": [
+        "कुल-धर्म",
+        "कुळाचे"
+      ],
+      "roman_forms": [
+        "kula-dharm",
+        "kuḷācē"
+      ],
+      "description": "The hereditary duties and customs of a family or lineage."
+    },
+    {
+      "id": "kulaghna",
+      "category": "concept",
+      "primary_marathi": "कुलघ्न",
+      "primary_roman": "kulaghna",
+      "marathi_forms": [
+        "कुलघ्नांसह",
+        "कुलघ्नांच्या"
+      ],
+      "roman_forms": [
+        "kulaghnāṁsah",
+        "kulaghnāñcyā"
+      ],
+      "description": "A destroyer of one's own family or lineage."
+    },
+    {
+      "id": "kumara",
+      "category": "person",
+      "primary_marathi": "कुमार",
+      "primary_roman": "kumār",
+      "marathi_forms": [
+        "कुमार"
+      ],
+      "roman_forms": [
+        "kumār"
+      ],
+      "description": "The two Kumaras, mind-born ascetic sons, seen within the cosmic form."
+    },
+    {
+      "id": "kuntibhoja",
+      "category": "person",
+      "primary_marathi": "कुंतिभोज",
+      "primary_roman": "kuntibhōja",
+      "marathi_forms": [
+        "कुंतिभोजीय"
+      ],
+      "roman_forms": [
+        "kuntibhōjīy"
+      ],
+      "description": "King Kuntibhoja (or his kin), an ally on the Pandava side."
+    },
+    {
+      "id": "kurukshetra",
+      "category": "place",
+      "primary_marathi": "कुरु-क्षेत्र",
+      "primary_roman": "kuru-kṣētra",
+      "marathi_forms": [
+        "कुरु-क्षेत्रीं"
+      ],
+      "roman_forms": [
+        "kuru-kṣētrīm"
+      ],
+      "description": "The field where the Kaurava and Pandava armies assembled for battle; the setting of the Gita."
+    },
+    {
+      "id": "loka-sangraha",
+      "category": "concept",
+      "primary_marathi": "लोक-संग्रह",
+      "primary_roman": "lōka-saṅgraha",
+      "marathi_forms": [
+        "लोक-संग्रह"
+      ],
+      "roman_forms": [
+        "lōka-saṅgrah"
+      ],
+      "description": "The welfare and holding-together of the world; the purpose for which the wise should continue to act."
+    },
+    {
+      "id": "madhava",
+      "category": "person",
+      "primary_marathi": "माधव",
+      "primary_roman": "mādhav",
+      "marathi_forms": [
+        "माधव"
+      ],
+      "roman_forms": [
+        "mādhav"
+      ],
+      "description": "An epithet of Krishna, used by Arjuna when the milder human form returns."
+    },
+    {
+      "id": "maharathi",
+      "category": "concept",
+      "primary_marathi": "महा-रथी",
+      "primary_roman": "mahā-rathī",
+      "marathi_forms": [
+        "महा-रथी"
+      ],
+      "roman_forms": [
+        "mahā-rathī"
+      ],
+      "description": "A great chariot-warrior capable of fighting many opponents at once."
+    },
+    {
+      "id": "maharshi",
+      "category": "person",
+      "primary_marathi": "महर्षि",
+      "primary_roman": "maharṣi",
+      "marathi_forms": [
+        "महर्षि",
+        "महर्षींचें",
+        "महर्षींत"
+      ],
+      "roman_forms": [
+        "maharṣi",
+        "maharṣīñcēṁ",
+        "maharṣīnt"
+      ],
+      "description": "Great sages; including the seven ancient seers said to have arisen from Krishna's will."
+    },
+    {
+      "id": "mahatma",
+      "category": "concept",
+      "primary_marathi": "महात्मा",
+      "primary_roman": "mahātmā",
+      "marathi_forms": [
+        "महात्मे"
+      ],
+      "roman_forms": [
+        "mahātmē"
+      ],
+      "description": "Great-souled persons who worship the Lord with single-minded devotion."
+    },
+    {
+      "id": "mahavayu",
+      "category": "concept",
+      "primary_marathi": "महा-वायु",
+      "primary_roman": "mahā-vāyu",
+      "marathi_forms": [
+        "महा-वायु"
+      ],
+      "roman_forms": [
+        "mahā-vāyu"
+      ],
+      "description": "The great wind that abides everywhere in space, used as an image for how beings rest in the Lord."
+    },
+    {
+      "id": "mana",
+      "category": "concept",
+      "primary_marathi": "मन",
+      "primary_roman": "mana",
+      "marathi_forms": [
+        "मन",
+        "मनानें",
+        "मनाहूनि"
+      ],
+      "roman_forms": [
+        "man",
+        "manānēn",
+        "manāhūni"
+      ],
+      "description": "The mind, said to be higher than the senses but lower than the intellect."
+    },
+    {
+      "id": "manava-rupa",
+      "category": "concept",
+      "primary_marathi": "मानव-रुप",
+      "primary_roman": "mānava-rup",
+      "marathi_forms": [
+        "मानव-रुपांत"
+      ],
+      "roman_forms": [
+        "mānava-rupānt"
+      ],
+      "description": "The human form in which the Lord is seen, which the deluded undervalue."
+    },
+    {
+      "id": "manipushpaka",
+      "category": "object",
+      "primary_marathi": "मणि-पुष्पक",
+      "primary_roman": "maṇi-puṣpaka",
+      "marathi_forms": [
+        "मणि-पुष्पक"
+      ],
+      "roman_forms": [
+        "maṇi-puṣpak"
+      ],
+      "description": "The conch of Sahadeva."
+    },
+    {
+      "id": "mantra",
+      "category": "concept",
+      "primary_marathi": "मंत्र",
+      "primary_roman": "mantr",
+      "marathi_forms": [
+        "मंत्र"
+      ],
+      "roman_forms": [
+        "mantr"
+      ],
+      "description": "Sacred verse or formula used in ritual; identified with the Lord."
+    },
+    {
+      "id": "manu",
+      "category": "person",
+      "primary_marathi": "मनु",
+      "primary_roman": "manu",
+      "marathi_forms": [
+        "मनु"
+      ],
+      "roman_forms": [
+        "manu"
+      ],
+      "description": "The progenitor figures (the four Manus) who came from Krishna's will, from whom worldly creatures descend."
+    },
+    {
+      "id": "margashirsha",
+      "category": "concept",
+      "primary_marathi": "मार्गशीर्ष",
+      "primary_roman": "mārgaśīrṣ",
+      "marathi_forms": [
+        "मार्गशीर्ष"
+      ],
+      "roman_forms": [
+        "mārgaśīrṣ"
+      ],
+      "description": "A month of the Hindu calendar (roughly Nov–Dec); Krishna says among months he is Margashirsha."
+    },
+    {
+      "id": "marichi",
+      "category": "person",
+      "primary_marathi": "मरीचि",
+      "primary_roman": "marīci",
+      "marathi_forms": [
+        "मरीचि"
+      ],
+      "roman_forms": [
+        "marīci"
+      ],
+      "description": "Marichi, regarded as chief of the winds (Maruts); Krishna identifies himself with him."
+    },
+    {
+      "id": "matkarma",
+      "category": "concept",
+      "primary_marathi": "मत्कर्म",
+      "primary_roman": "matkarma",
+      "marathi_forms": [
+        "मत्कर्म"
+      ],
+      "roman_forms": [
+        "matkarm"
+      ],
+      "description": "Action performed for the sake of the divine; work done as service to Krishna."
+    },
+    {
+      "id": "matpara",
+      "category": "concept",
+      "primary_marathi": "मत्पर",
+      "primary_roman": "matpara",
+      "marathi_forms": [
+        "मत्पर"
+      ],
+      "roman_forms": [
+        "matpar"
+      ],
+      "description": "Being wholly devoted to the divine, holding Krishna as the supreme goal."
+    },
+    {
+      "id": "matparayana",
+      "category": "concept",
+      "primary_marathi": "मत्परायण",
+      "primary_roman": "matparāyaṇ",
+      "marathi_forms": [
+        "मत्परायण",
+        "मच्चित्त"
+      ],
+      "roman_forms": [
+        "matparāyaṇ",
+        "maccitt"
+      ],
+      "description": "Being wholly devoted to and absorbed in Krishna, with the mind fixed on him."
+    },
+    {
+      "id": "maya",
+      "category": "concept",
+      "primary_marathi": "माया",
+      "primary_roman": "māyā",
+      "marathi_forms": [
+        "मायेनें"
+      ],
+      "roman_forms": [
+        "māyēnēñ"
+      ],
+      "description": "The power by which the supreme lord moves all beings as if set upon a machine."
+    },
+    {
+      "id": "meru",
+      "category": "place",
+      "primary_marathi": "मेरु",
+      "primary_roman": "mēru",
+      "marathi_forms": [
+        "मेरु"
+      ],
+      "roman_forms": [
+        "mēru"
+      ],
+      "description": "Mount Meru, the mountain of cosmology; Krishna says among lofty things he is Meru."
+    },
+    {
+      "id": "mithyachara",
+      "category": "concept",
+      "primary_marathi": "मिथ्याचार",
+      "primary_roman": "mithyācāra",
+      "marathi_forms": [
+        "मिथ्याचार"
+      ],
+      "roman_forms": [
+        "mithyācār"
+      ],
+      "description": "A hypocrite or false-conduct person who restrains the senses outwardly while dwelling on objects of enjoyment in the mind."
+    },
+    {
+      "id": "moha",
+      "category": "concept",
+      "primary_marathi": "मोह",
+      "primary_roman": "mōh",
+      "marathi_forms": [
+        "मोह",
+        "मोहें"
+      ],
+      "roman_forms": [
+        "mōh",
+        "mōhēṅ"
+      ],
+      "description": "Delusion; abandoning duty out of it is tamasic, and Arjuna declares his delusion finally gone."
+    },
+    {
+      "id": "moksha",
+      "category": "concept",
+      "primary_marathi": "मोक्ष",
+      "primary_roman": "mōkṣ",
+      "marathi_forms": [
+        "मोक्ष"
+      ],
+      "roman_forms": [
+        "mōkṣ"
+      ],
+      "description": "Liberation, attained by devotion to one's own duty and worship of the source of all beings."
+    },
+    {
+      "id": "moksha-dham",
+      "category": "concept",
+      "primary_marathi": "मोक्ष-धाम",
+      "primary_roman": "mōkṣa-dhām",
+      "marathi_forms": [
+        "मोक्ष-धाम"
+      ],
+      "roman_forms": [
+        "mōkṣa-dhām"
+      ],
+      "description": "The abode/state of liberation; Arjuna addresses Krishna as the goal of mokṣa."
+    },
+    {
+      "id": "moksha-dhama",
+      "category": "concept",
+      "primary_marathi": "मोक्ष-धाम",
+      "primary_roman": "mōkṣa-dhām",
+      "marathi_forms": [
+        "मोक्ष-धामा"
+      ],
+      "roman_forms": [
+        "mōkṣa-dhāmā"
+      ],
+      "description": "The abode of liberation, of which Arjuna says Krishna alone has knowledge."
+    },
+    {
+      "id": "mrityu",
+      "category": "concept",
+      "primary_marathi": "मृत्यु",
+      "primary_roman": "mr̥tyu",
+      "marathi_forms": [
+        "मृत्यूची",
+        "मृत्यु",
+        "मृत्यु-लोकास"
+      ],
+      "roman_forms": [
+        "mr̥tyūcī",
+        "mr̥tyu",
+        "mr̥tyu-lōkās"
+      ],
+      "description": "Death; the Lord declares himself to be death as well as immortality (mokṣa). Mr̥tyu-loka is the mortal world."
+    },
+    {
+      "id": "mumukshu",
+      "category": "concept",
+      "primary_marathi": "मुमुक्षु",
+      "primary_roman": "mumukṣu",
+      "marathi_forms": [
+        "मुमुक्षूंनीं"
+      ],
+      "roman_forms": [
+        "mumukṣūnnīm"
+      ],
+      "description": "Seekers of liberation, who in the past performed action knowing this truth; Arjuna is urged to follow their example."
+    },
+    {
+      "id": "muni",
+      "category": "person",
+      "primary_marathi": "मुनि",
+      "primary_roman": "muni",
+      "marathi_forms": [
+        "मुनि"
+      ],
+      "roman_forms": [
+        "muni"
+      ],
+      "description": "Sages or contemplative ascetics who attained liberation through this knowledge."
+    },
+    {
+      "id": "naga",
+      "category": "concept",
+      "primary_marathi": "नाग",
+      "primary_roman": "nāga",
+      "marathi_forms": [
+        "नागांत"
+      ],
+      "roman_forms": [
+        "nāgānt"
+      ],
+      "description": "Serpent beings; Krishna says among nagas he is Shesha."
+    },
+    {
+      "id": "naishkarmya",
+      "category": "concept",
+      "primary_marathi": "नैष्कर्म्य",
+      "primary_roman": "naiṣkarmy",
+      "marathi_forms": [
+        "नैष्कर्म्य"
+      ],
+      "roman_forms": [
+        "naiṣkarmy"
+      ],
+      "description": "The state of actionlessness in action, attained by one free of attachment and self-mastery."
+    },
+    {
+      "id": "nakula",
+      "category": "person",
+      "primary_marathi": "नकुळ",
+      "primary_roman": "nakuḷa",
+      "marathi_forms": [
+        "नकुळें"
+      ],
+      "roman_forms": [
+        "nakuḷēṁ"
+      ],
+      "description": "Fourth Pandava brother; he blows the conch Sughosha."
+    },
+    {
+      "id": "narada",
+      "category": "person",
+      "primary_marathi": "नारद",
+      "primary_roman": "nārad",
+      "marathi_forms": [
+        "नारद"
+      ],
+      "roman_forms": [
+        "nārad"
+      ],
+      "description": "A celestial sage (devarshi); Krishna says among divine sages he is Narada."
+    },
+    {
+      "id": "naraka",
+      "category": "concept",
+      "primary_marathi": "नरक",
+      "primary_roman": "narak",
+      "marathi_forms": [
+        "नरकांत",
+        "नरक-द्वारें"
+      ],
+      "roman_forms": [
+        "narakānt",
+        "naraka-dvārēṇ"
+      ],
+      "description": "Hell; lust, anger and greed are called its three gates."
+    },
+    {
+      "id": "nastik",
+      "category": "concept",
+      "primary_marathi": "नास्तिक",
+      "primary_roman": "nāstik",
+      "marathi_forms": [
+        "नास्तिक"
+      ],
+      "roman_forms": [
+        "nāstik"
+      ],
+      "description": "A disbeliever or one who lacks faith in the teaching."
+    },
+    {
+      "id": "nava-dvara-puri",
+      "category": "concept",
+      "primary_marathi": "नव-व्दार-पुरी",
+      "primary_roman": "nava-vdāra-purī",
+      "marathi_forms": [
+        "नव-व्दार-पुरीं"
+      ],
+      "roman_forms": [
+        "nava-vdāra-purīṁ"
+      ],
+      "description": "The \"city of nine gates\", a metaphor for the human body in which the embodied self dwells."
+    },
+    {
+      "id": "nigraha",
+      "category": "concept",
+      "primary_marathi": "निग्रह",
+      "primary_roman": "nigrah",
+      "marathi_forms": [
+        "निग्रह"
+      ],
+      "roman_forms": [
+        "nigrah"
+      ],
+      "description": "Restraint or control of the mind, which Arjuna deems difficult and Krishna says is achieved through practice and detachment."
+    },
+    {
+      "id": "nirguna",
+      "category": "concept",
+      "primary_marathi": "निर्गुण",
+      "primary_roman": "nirguṇa",
+      "marathi_forms": [
+        "निर्गुण"
+      ],
+      "roman_forms": [
+        "nirguṇ"
+      ],
+      "description": "Quality-less; describing the supreme self that experiences the guṇas yet remains untouched by them."
+    },
+    {
+      "id": "nishkama",
+      "category": "concept",
+      "primary_marathi": "निष्काम",
+      "primary_roman": "niṣkām",
+      "marathi_forms": [
+        "निष्काम"
+      ],
+      "roman_forms": [
+        "niṣkām"
+      ],
+      "description": "Free from desire; the desireless strength that Krishna is in the strong."
+    },
+    {
+      "id": "nishtha",
+      "category": "concept",
+      "primary_marathi": "निष्ठा",
+      "primary_roman": "niṣṭhā",
+      "marathi_forms": [
+        "निष्ठा"
+      ],
+      "roman_forms": [
+        "niṣṭhā"
+      ],
+      "description": "Firm establishment or steadfastness, here the highest standing in knowledge."
+    },
+    {
+      "id": "om",
+      "category": "concept",
+      "primary_marathi": "ॐ",
+      "primary_roman": "ōṁ",
+      "marathi_forms": [
+        "ॐ"
+      ],
+      "roman_forms": [
+        "ōṁ"
+      ],
+      "description": "The sacred syllable Om, identified by Krishna as the sound (śabda) in the Vedas."
+    },
+    {
+      "id": "om-tat-sat",
+      "category": "concept",
+      "primary_marathi": "ॐ-तत-सत",
+      "primary_roman": "ōṁ-tat-sat",
+      "marathi_forms": [
+        "ॐ-तत-सत",
+        "ॐ-कार",
+        "तत-कार",
+        "सत-कार"
+      ],
+      "roman_forms": [
+        "ōṁ-tata-sat",
+        "ōṁ-kār",
+        "tata-kāra",
+        "sata-kār"
+      ],
+      "description": "The threefold designation of Brahman — Om, Tat and Sat — uttered in connection with sacrifice, gift and austerity; Sat also denotes truth, goodness and right action."
+    },
+    {
+      "id": "omkara",
+      "category": "concept",
+      "primary_marathi": "ॐकार",
+      "primary_roman": "ōṁkār",
+      "marathi_forms": [
+        "ॐकार"
+      ],
+      "roman_forms": [
+        "ॐkār"
+      ],
+      "description": "The syllable Om, identified with the Lord as the worthy object of knowledge."
+    },
+    {
+      "id": "padma-patra",
+      "category": "object",
+      "primary_marathi": "पदम-पत्र",
+      "primary_roman": "padama-patr",
+      "marathi_forms": [
+        "पदम-पत्र"
+      ],
+      "roman_forms": [
+        "padama-patr"
+      ],
+      "description": "A lotus leaf, used as a simile: one who acts surrendering to Brahman is untouched by sin as a lotus leaf is untouched by water."
+    },
+    {
+      "id": "panchajanya",
+      "category": "object",
+      "primary_marathi": "पांच-जन्य",
+      "primary_roman": "pāñca-janya",
+      "marathi_forms": [
+        "पांच-जन्य"
+      ],
+      "roman_forms": [
+        "pāñca-jany"
+      ],
+      "description": "The conch of Krishna."
+    },
+    {
+      "id": "pandava",
+      "category": "person",
+      "primary_marathi": "पांडव",
+      "primary_roman": "pāṇḍav",
+      "marathi_forms": [
+        "पांडवांत"
+      ],
+      "roman_forms": [
+        "pāṇḍavānt"
+      ],
+      "description": "The sons of Pandu; Krishna says among the Pandavas he is Dhananjaya (Arjuna)."
+    },
+    {
+      "id": "pandit",
+      "category": "concept",
+      "primary_marathi": "पंडित",
+      "primary_roman": "paṇḍit",
+      "marathi_forms": [
+        "पंडित"
+      ],
+      "roman_forms": [
+        "paṇḍit"
+      ],
+      "description": "A wise or learned person; one whose actions are burned by knowledge and who acts free of desire-driven intentions."
+    },
+    {
+      "id": "pandu",
+      "category": "person",
+      "primary_marathi": "पांडु",
+      "primary_roman": "pāṇḍu",
+      "marathi_forms": [
+        "पांडूचे"
+      ],
+      "roman_forms": [
+        "pāṇḍūcē"
+      ],
+      "description": "Father of the five Pandava brothers and brother of Dhritarashtra."
+    },
+    {
+      "id": "papa-yoni",
+      "category": "concept",
+      "primary_marathi": "पाप-योनि",
+      "primary_roman": "pāpa-yōni",
+      "marathi_forms": [
+        "पाप-योनि"
+      ],
+      "roman_forms": [
+        "pāpa-yōni"
+      ],
+      "description": "Those born of lowly or sinful origin, who too attain liberation through devotion."
+    },
+    {
+      "id": "para",
+      "category": "concept",
+      "primary_marathi": "परा",
+      "primary_roman": "parā",
+      "marathi_forms": [
+        "परा"
+      ],
+      "roman_forms": [
+        "parā"
+      ],
+      "description": "The higher nature of Krishna, the life-principle (jīva) that upholds the whole world."
+    },
+    {
+      "id": "para-dharma",
+      "category": "concept",
+      "primary_marathi": "पर-धर्म",
+      "primary_roman": "para-dharma",
+      "marathi_forms": [
+        "पर-धर्म",
+        "पर-धर्माहुनी"
+      ],
+      "roman_forms": [
+        "para-dharm",
+        "para-dharmāhunī"
+      ],
+      "description": "Another's duty; following it is said to be fearsome compared to one's own dharma."
+    },
+    {
+      "id": "paramatma",
+      "category": "concept",
+      "primary_marathi": "परमात्मा",
+      "primary_roman": "paramātmā",
+      "marathi_forms": [
+        "परमात्म-तत्वीं",
+        "परमात्मा"
+      ],
+      "roman_forms": [
+        "paramātma-tatvīṁ",
+        "paramātmā"
+      ],
+      "description": "The supreme self or ultimate reality; the goal to be sought from which there is no return."
+    },
+    {
+      "id": "paramatma-tattva",
+      "category": "concept",
+      "primary_marathi": "परमात्म-तत्व",
+      "primary_roman": "paramātma-tatv",
+      "marathi_forms": [
+        "परमात्म-तत्व"
+      ],
+      "roman_forms": [
+        "paramātma-tatv"
+      ],
+      "description": "The principle of the supreme self, which Arjuna recognizes Krishna to be."
+    },
+    {
+      "id": "parameshvara",
+      "category": "person",
+      "primary_marathi": "परमेश्वर",
+      "primary_roman": "paramēśvar",
+      "marathi_forms": [
+        "परमेश्वर"
+      ],
+      "roman_forms": [
+        "paramēśvar"
+      ],
+      "description": "The supreme lord said to dwell in the heart of all beings, turning them as if mounted on a machine."
+    },
+    {
+      "id": "parigraha",
+      "category": "concept",
+      "primary_marathi": "परिग्रह",
+      "primary_roman": "parigraha",
+      "marathi_forms": [
+        "परिग्रह"
+      ],
+      "roman_forms": [
+        "parigrah"
+      ],
+      "description": "Possessiveness or accumulation; the restrained one acts with the body alone, having given up desire and possession."
+    },
+    {
+      "id": "partha",
+      "category": "person",
+      "primary_marathi": "पार्थ",
+      "primary_roman": "pārth",
+      "marathi_forms": [
+        "पार्थ"
+      ],
+      "roman_forms": [
+        "pārth"
+      ],
+      "description": "Epithet of Arjuna, meaning son of Pritha (Kunti); used by Sanjaya in the closing verse."
+    },
+    {
+      "id": "paundra",
+      "category": "object",
+      "primary_marathi": "पौंड्र",
+      "primary_roman": "pauṇḍra",
+      "marathi_forms": [
+        "पौंड्र"
+      ],
+      "roman_forms": [
+        "pauṇḍr"
+      ],
+      "description": "The conch blown by Bhima."
+    },
+    {
+      "id": "phala-data",
+      "category": "concept",
+      "primary_marathi": "फल-दाता",
+      "primary_roman": "phala-dātā",
+      "marathi_forms": [
+        "फल-दाता"
+      ],
+      "roman_forms": [
+        "phala-dātā"
+      ],
+      "description": "The bestower of the fruits of action and sacrifice."
+    },
+    {
+      "id": "phala-tyaga",
+      "category": "concept",
+      "primary_marathi": "फल-त्याग",
+      "primary_roman": "phala-tyāga",
+      "marathi_forms": [
+        "फल-त्याग"
+      ],
+      "roman_forms": [
+        "phala-tyāg"
+      ],
+      "description": "Renunciation of the fruits of one's actions, which is said to bring peace."
+    },
+    {
+      "id": "pitara",
+      "category": "concept",
+      "primary_marathi": "पितर",
+      "primary_roman": "pitar",
+      "marathi_forms": [
+        "पितरांचे"
+      ],
+      "roman_forms": [
+        "pitarāñcē"
+      ],
+      "description": "Ancestors or departed forefathers; their worshippers attain them."
+    },
+    {
+      "id": "pitri",
+      "category": "concept",
+      "primary_marathi": "पितर",
+      "primary_roman": "pitar",
+      "marathi_forms": [
+        "पितरीं"
+      ],
+      "roman_forms": [
+        "pitarīṁ"
+      ],
+      "description": "The ancestral spirits; Krishna says among them he is Aryama."
+    },
+    {
+      "id": "pitri-deva",
+      "category": "person",
+      "primary_marathi": "पितृ-देव",
+      "primary_roman": "pitr̥-dēv",
+      "marathi_forms": [
+        "पितृ-देव"
+      ],
+      "roman_forms": [
+        "pitr̥-dēv"
+      ],
+      "description": "The ancestral deities (Pitris) seen within the cosmic form."
+    },
+    {
+      "id": "prabhu",
+      "category": "person",
+      "primary_marathi": "प्रभू",
+      "primary_roman": "prabhū",
+      "marathi_forms": [
+        "प्रभू"
+      ],
+      "roman_forms": [
+        "prabhū"
+      ],
+      "description": "The Lord (Krishna), who, like the wind carrying scent, takes the senses and mind from one body to another."
+    },
+    {
+      "id": "prahlada",
+      "category": "person",
+      "primary_marathi": "प्रल्हाद",
+      "primary_roman": "pralhād",
+      "marathi_forms": [
+        "प्रल्हाद"
+      ],
+      "roman_forms": [
+        "pralhād"
+      ],
+      "description": "A devotee-prince born among the daityas; Krishna says among the daityas he is Prahlada."
+    },
+    {
+      "id": "prajapati",
+      "category": "person",
+      "primary_marathi": "प्रजापति",
+      "primary_roman": "prajāpati",
+      "marathi_forms": [
+        "प्रजापते"
+      ],
+      "roman_forms": [
+        "prajāpatē"
+      ],
+      "description": "The progenitor or lord of creatures, addressed as forefather within the cosmic form."
+    },
+    {
+      "id": "prajna",
+      "category": "concept",
+      "primary_marathi": "प्राज्ञ",
+      "primary_roman": "prājñ",
+      "marathi_forms": [
+        "प्राज्ञ"
+      ],
+      "roman_forms": [
+        "prājñ"
+      ],
+      "description": "The wise or discerning one who, free of delusion and attachment, enters the eternal state."
+    },
+    {
+      "id": "prakriti",
+      "category": "concept",
+      "primary_marathi": "प्रकृति",
+      "primary_roman": "prakr̥ti",
+      "marathi_forms": [
+        "प्रकृतींतूनि"
+      ],
+      "roman_forms": [
+        "prakr̥tīntūni"
+      ],
+      "description": "Primordial nature or material substance, from which the jīva draws the senses and mind."
+    },
+    {
+      "id": "prakriti-prajna",
+      "category": "concept",
+      "primary_marathi": "प्रज्ञा",
+      "primary_roman": "prajñā",
+      "marathi_forms": [
+        "प्रज्ञा"
+      ],
+      "roman_forms": [
+        "prajñā"
+      ],
+      "description": "Wisdom or discerning intellect; described as becoming steady (sthira) in the realized person."
+    },
+    {
+      "id": "prana",
+      "category": "concept",
+      "primary_marathi": "प्राण",
+      "primary_roman": "prāṇa",
+      "marathi_forms": [
+        "प्राण",
+        "प्राणांत",
+        "प्राणेंद्रिय"
+      ],
+      "roman_forms": [
+        "prāṇ",
+        "prāṇānt",
+        "prāṇēndriya"
+      ],
+      "description": "The vital breath; some offer the in-breath into the out-breath, or restrain breath and senses as sacrifice."
+    },
+    {
+      "id": "prana-apana",
+      "category": "concept",
+      "primary_marathi": "प्राणापान",
+      "primary_roman": "prāṇāpān",
+      "marathi_forms": [
+        "प्रणापानांस"
+      ],
+      "roman_forms": [
+        "praṇāpānāṁs"
+      ],
+      "description": "The vital breaths prāṇa (outgoing) and apāna (downward), regulated to digest food in the body."
+    },
+    {
+      "id": "pranayama",
+      "category": "concept",
+      "primary_marathi": "प्राणायाम",
+      "primary_roman": "prāṇāyāma",
+      "marathi_forms": [
+        "प्राणायामास"
+      ],
+      "roman_forms": [
+        "prāṇāyāmās"
+      ],
+      "description": "Breath control; achieved by restraining the movement of the in-breath (prana) and out-breath (apana)."
+    },
+    {
+      "id": "prayana",
+      "category": "concept",
+      "primary_marathi": "प्रयाण",
+      "primary_roman": "prayāṇ",
+      "marathi_forms": [
+        "प्रयाणीं",
+        "प्रयाण-काळीं"
+      ],
+      "roman_forms": [
+        "prayāṇīṁ",
+        "prayāṇa-kāḷīṁ"
+      ],
+      "description": "Departure, i.e. the moment of death; a key theme of this chapter on remembering the divine at the final passage."
+    },
+    {
+      "id": "punya",
+      "category": "concept",
+      "primary_marathi": "पुण्य",
+      "primary_roman": "puṇya",
+      "marathi_forms": [
+        "पुण्यानें",
+        "पुण्यें"
+      ],
+      "roman_forms": [
+        "puṇyānēñ",
+        "puṇyēm"
+      ],
+      "description": "Religious merit, which earns heaven but is exhausted, returning one to the mortal world."
+    },
+    {
+      "id": "punya-loka",
+      "category": "place",
+      "primary_marathi": "पुण्य-लोक",
+      "primary_roman": "puṇya-lōk",
+      "marathi_forms": [
+        "पुण्य-लोकांत"
+      ],
+      "roman_forms": [
+        "puṇya-lōkānt"
+      ],
+      "description": "The worlds of merit where one who falls from yoga dwells before being reborn into a favorable family."
+    },
+    {
+      "id": "purujit",
+      "category": "person",
+      "primary_marathi": "पुरुजित",
+      "primary_roman": "purujit",
+      "marathi_forms": [
+        "पुरुजित"
+      ],
+      "roman_forms": [
+        "purujit"
+      ],
+      "description": "A warrior of the Kunti-Bhoja line fighting for the Pandavas."
+    },
+    {
+      "id": "purusha",
+      "category": "concept",
+      "primary_marathi": "पुरुष",
+      "primary_roman": "puruṣa",
+      "marathi_forms": [
+        "पुरुष",
+        "पुरुषाची",
+        "पुरुषाचें",
+        "परुषाकडे",
+        "प्रकृती-पुरुषाची"
+      ],
+      "roman_forms": [
+        "puruṣ",
+        "puruṣācī",
+        "puruṣācēṁ",
+        "paruṣākaḍē",
+        "prakr̥tī-puruṣācī"
+      ],
+      "description": "The conscious self or spirit that experiences the qualities of nature; the enjoyer paired with prakṛti."
+    },
+    {
+      "id": "purushartha",
+      "category": "concept",
+      "primary_marathi": "पुरुषार्थ",
+      "primary_roman": "puruṣārth",
+      "marathi_forms": [
+        "पुरुषार्थ"
+      ],
+      "roman_forms": [
+        "puruṣārth"
+      ],
+      "description": "Human striving or capacity for effort; Krishna identifies himself as this in people."
+    },
+    {
+      "id": "purushottama",
+      "category": "concept",
+      "primary_marathi": "पुरुषोत्तम",
+      "primary_roman": "puruṣōttam",
+      "marathi_forms": [
+        "पुरुषोत्तम",
+        "परुषोत्तम",
+        "पुरुष उत्तम"
+      ],
+      "roman_forms": [
+        "puruṣōttam",
+        "paruṣōttam",
+        "puruṣ uttam"
+      ],
+      "description": "The Supreme Person, transcending both the perishable and imperishable; the highest reality identified with the Lord himself."
+    },
+    {
+      "id": "raga-dvesha",
+      "category": "concept",
+      "primary_marathi": "राग-द्वेष",
+      "primary_roman": "rāga-dvēṣa",
+      "marathi_forms": [
+        "राग-द्वेषांमुळे"
+      ],
+      "roman_forms": [
+        "rāga-dvēṣāmmuḷē"
+      ],
+      "description": "Attraction and aversion; the pair from which the delusion of dualities arises in the mind."
+    },
+    {
+      "id": "raja-vidya",
+      "category": "concept",
+      "primary_marathi": "राज-विद्या",
+      "primary_roman": "rāja-vidyā",
+      "marathi_forms": [
+        "राज-विद्या"
+      ],
+      "roman_forms": [
+        "rāja-vidyā"
+      ],
+      "description": "The 'royal knowledge' or foremost of sciences, the central teaching of this chapter."
+    },
+    {
+      "id": "rajarshi",
+      "category": "concept",
+      "primary_marathi": "राजर्षि",
+      "primary_roman": "rājarṣi",
+      "marathi_forms": [
+        "राजर्षि"
+      ],
+      "roman_forms": [
+        "rājarṣi"
+      ],
+      "description": "Royal sages, kings who became seers; likewise attain the Lord through devotion."
+    },
+    {
+      "id": "rajas",
+      "category": "concept",
+      "primary_marathi": "राजस",
+      "primary_roman": "rājas",
+      "marathi_forms": [
+        "राजस"
+      ],
+      "roman_forms": [
+        "rājas"
+      ],
+      "description": "The quality of passion and restless activity among the three guṇas, marked by desire and attachment to fruit."
+    },
+    {
+      "id": "rajoguna",
+      "category": "concept",
+      "primary_marathi": "रजोगुण",
+      "primary_roman": "rajōguṇa",
+      "marathi_forms": [
+        "रजोगुणें"
+      ],
+      "roman_forms": [
+        "rajōguṇēṁ"
+      ],
+      "description": "The quality of passion/activity (rajas), one of the three guṇas, from which desire and anger arise."
+    },
+    {
+      "id": "rakshasa",
+      "category": "concept",
+      "primary_marathi": "राक्षस",
+      "primary_roman": "rākṣas",
+      "marathi_forms": [
+        "यक्ष-राक्षस"
+      ],
+      "roman_forms": [
+        "yakṣa-rākṣas"
+      ],
+      "description": "A class of malevolent demon-beings; mentioned among the objects worshipped by those of rajas temperament."
+    },
+    {
+      "id": "rama",
+      "category": "person",
+      "primary_marathi": "राम",
+      "primary_roman": "rām",
+      "marathi_forms": [
+        "राम"
+      ],
+      "roman_forms": [
+        "rām"
+      ],
+      "description": "Rama, named among warriors who bear weapons; Krishna identifies himself with him."
+    },
+    {
+      "id": "rishi",
+      "category": "person",
+      "primary_marathi": "ऋषि",
+      "primary_roman": "r̥ṣi",
+      "marathi_forms": [
+        "ऋषी"
+      ],
+      "roman_forms": [
+        "r̥ṣī"
+      ],
+      "description": "Sages/seers who praise Krishna with one voice."
+    },
+    {
+      "id": "rudra",
+      "category": "concept",
+      "primary_marathi": "रुद्र",
+      "primary_roman": "rudra",
+      "marathi_forms": [
+        "रुद्रांत"
+      ],
+      "roman_forms": [
+        "rudrānt"
+      ],
+      "description": "The Rudras, deities associated with Shiva; Krishna says among them he is Sadashiva."
+    },
+    {
+      "id": "sadashiva",
+      "category": "person",
+      "primary_marathi": "सदाशिव",
+      "primary_roman": "sadāśiv",
+      "marathi_forms": [
+        "सदाशिव"
+      ],
+      "roman_forms": [
+        "sadāśiv"
+      ],
+      "description": "A form of Shiva; Krishna says among the Rudras he is Sadashiva."
+    },
+    {
+      "id": "sadhaka",
+      "category": "concept",
+      "primary_marathi": "साधक",
+      "primary_roman": "sādhak",
+      "marathi_forms": [
+        "साधकें"
+      ],
+      "roman_forms": [
+        "sādhakēñ"
+      ],
+      "description": "A spiritual aspirant who binds the mind, gives up craving and unites with the self in solitude."
+    },
+    {
+      "id": "sadhu",
+      "category": "concept",
+      "primary_marathi": "साधु",
+      "primary_roman": "sādhu",
+      "marathi_forms": [
+        "साधु"
+      ],
+      "roman_forms": [
+        "sādhu"
+      ],
+      "description": "A virtuous or righteous person."
+    },
+    {
+      "id": "sadhya",
+      "category": "person",
+      "primary_marathi": "साध्य",
+      "primary_roman": "sādhy",
+      "marathi_forms": [
+        "साध्य"
+      ],
+      "roman_forms": [
+        "sādhy"
+      ],
+      "description": "A class of celestial beings (the Sadhyas) seen within the cosmic form."
+    },
+    {
+      "id": "sagara",
+      "category": "place",
+      "primary_marathi": "सागर",
+      "primary_roman": "sāgar",
+      "marathi_forms": [
+        "सागर"
+      ],
+      "roman_forms": [
+        "sāgar"
+      ],
+      "description": "The ocean; Krishna says among bodies of water he is the ocean."
+    },
+    {
+      "id": "sahadeva",
+      "category": "person",
+      "primary_marathi": "सहदेव",
+      "primary_roman": "sahadēva",
+      "marathi_forms": [
+        "सहदेवें",
+        "सहदेवेंहि"
+      ],
+      "roman_forms": [
+        "sahadēvēṁ",
+        "sahadēvēṁhi"
+      ],
+      "description": "Youngest Pandava brother; he blows the conch Manipushpaka."
+    },
+    {
+      "id": "sakshi",
+      "category": "concept",
+      "primary_marathi": "साक्षी",
+      "primary_roman": "sākṣī",
+      "marathi_forms": [
+        "साक्षी"
+      ],
+      "roman_forms": [
+        "sākṣī"
+      ],
+      "description": "The witness; the Lord as detached observer overseeing nature's workings."
+    },
+    {
+      "id": "samadhi",
+      "category": "concept",
+      "primary_marathi": "समाधि",
+      "primary_roman": "samādhi",
+      "marathi_forms": [
+        "समाधीस"
+      ],
+      "roman_forms": [
+        "samādhīs"
+      ],
+      "description": "The state of meditative absorption, kindled inwardly through contemplation as a form of inner sacrifice."
+    },
+    {
+      "id": "samatva",
+      "category": "concept",
+      "primary_marathi": "समत्व",
+      "primary_roman": "samatv",
+      "marathi_forms": [
+        "समत्व",
+        "समत्व-बुध्दि",
+        "समत्व-बुध्दीने",
+        "समधींत"
+      ],
+      "roman_forms": [
+        "samatv",
+        "samatva-budhdi",
+        "samatva-budhdīnē",
+        "samadhīnt"
+      ],
+      "description": "Equanimity or evenness of mind toward pleasure and pain, success and failure; called the essence of yoga."
+    },
+    {
+      "id": "samsara",
+      "category": "concept",
+      "primary_marathi": "संसार",
+      "primary_roman": "saṁsār",
+      "marathi_forms": [
+        "संसारीं"
+      ],
+      "roman_forms": [
+        "saṁsārīṁ"
+      ],
+      "description": "The cycle of worldly existence and repeated birth and death."
+    },
+    {
+      "id": "samsara-sagara",
+      "category": "concept",
+      "primary_marathi": "संसार-सागर",
+      "primary_roman": "saṁsāra-sāgara",
+      "marathi_forms": [
+        "संसार-सागरांतुनी"
+      ],
+      "roman_forms": [
+        "saṁsāra-sāgarāntunī"
+      ],
+      "description": "The ocean of worldly existence and rebirth, from which Krishna promises to rescue his devotees."
+    },
+    {
+      "id": "samshaya",
+      "category": "concept",
+      "primary_marathi": "संशय",
+      "primary_roman": "saṁśaya",
+      "marathi_forms": [
+        "संशय",
+        "संशयी"
+      ],
+      "roman_forms": [
+        "saṁśay",
+        "saṁśayī"
+      ],
+      "description": "Doubt; the doubting person finds happiness in neither this world nor the next, and is told to cut doubt with the sword of knowledge."
+    },
+    {
+      "id": "samya-yoga",
+      "category": "concept",
+      "primary_marathi": "साम्य योग",
+      "primary_roman": "sāmy yōg",
+      "marathi_forms": [
+        "साम्य योग"
+      ],
+      "roman_forms": [
+        "sāmy yōg"
+      ],
+      "description": "The yoga of equanimity or seeing all alike, which Arjuna says is hard to sustain because of the restless mind."
+    },
+    {
+      "id": "samyama",
+      "category": "concept",
+      "primary_marathi": "संयम",
+      "primary_roman": "saṁyama",
+      "marathi_forms": [
+        "संयमी",
+        "संयमाग्नींत"
+      ],
+      "roman_forms": [
+        "saṁyamī",
+        "saṁyamāgnīnt"
+      ],
+      "description": "Self-restraint; the self-controlled (samyami) perform sacrifice, and some offer the senses into the fire of restraint (samyamagni)."
+    },
+    {
+      "id": "sanatana",
+      "category": "concept",
+      "primary_marathi": "सनातन",
+      "primary_roman": "sanātan",
+      "marathi_forms": [
+        "सनातन"
+      ],
+      "roman_forms": [
+        "sanātan"
+      ],
+      "description": "Eternal, everlasting; describing the primal seed of all beings and Krishna's timeless nature."
+    },
+    {
+      "id": "sanatana-dharma",
+      "category": "concept",
+      "primary_marathi": "धर्म-सार सनातन",
+      "primary_roman": "dharma-sār sanātan",
+      "marathi_forms": [
+        "धर्म-सार सनातन"
+      ],
+      "roman_forms": [
+        "dharma-sār sanātan"
+      ],
+      "description": "The eternal essence of dharma; the timeless moral and spiritual order."
+    },
+    {
+      "id": "sanjaya",
+      "category": "person",
+      "primary_marathi": "संजय",
+      "primary_roman": "sañjaya",
+      "marathi_forms": [
+        "संजय"
+      ],
+      "roman_forms": [
+        "sañjaya"
+      ],
+      "description": "Narrator who recounts the Krishna–Arjuna dialogue to King Dhritarashtra; speaks the closing verses."
+    },
+    {
+      "id": "sankalpa",
+      "category": "concept",
+      "primary_marathi": "संकल्प",
+      "primary_roman": "saṅkalp",
+      "marathi_forms": [
+        "संकल्प"
+      ],
+      "roman_forms": [
+        "saṅkalp"
+      ],
+      "description": "Resolve or intention; named by the Lord as one of his identities."
+    },
+    {
+      "id": "sankara",
+      "category": "concept",
+      "primary_marathi": "संकर",
+      "primary_roman": "saṅkara",
+      "marathi_forms": [
+        "संकर-व्दारा"
+      ],
+      "roman_forms": [
+        "saṅkara-vdārā"
+      ],
+      "description": "Confusion/intermixture (of duties and order); Krishna says that by ceasing to act he would cause such disorder and ruin."
+    },
+    {
+      "id": "sankhya",
+      "category": "concept",
+      "primary_marathi": "सांख्य",
+      "primary_roman": "sāṅkhya",
+      "marathi_forms": [
+        "सांख्य"
+      ],
+      "roman_forms": [
+        "sāṅkhy"
+      ],
+      "description": "The path of knowledge/analysis, contrasted here with the yoga of action."
+    },
+    {
+      "id": "sankhya-yoga",
+      "category": "concept",
+      "primary_marathi": "सांख्य-योग",
+      "primary_roman": "sāṅkhya-yōga",
+      "marathi_forms": [
+        "सांख्य-योगें"
+      ],
+      "roman_forms": [
+        "sāṅkhya-yōgēn"
+      ],
+      "description": "The path of knowledge and analytical discrimination by which some perceive the self within."
+    },
+    {
+      "id": "sannyasa",
+      "category": "concept",
+      "primary_marathi": "संन्यास",
+      "primary_roman": "sannyās",
+      "marathi_forms": [
+        "संन्यास",
+        "संन्यासाचें",
+        "संन्यासी"
+      ],
+      "roman_forms": [
+        "sannyās",
+        "sannyāsācēṅ",
+        "sannyāsī"
+      ],
+      "description": "Renunciation; here defined as giving up desire-driven (kāmya) actions. A संन्यासी is the renunciate."
+    },
+    {
+      "id": "sattva",
+      "category": "concept",
+      "primary_marathi": "सत्व",
+      "primary_roman": "satva",
+      "marathi_forms": [
+        "सात्विक",
+        "सत्वांत",
+        "सत्विक"
+      ],
+      "roman_forms": [
+        "sātvik",
+        "satvānt",
+        "satvik"
+      ],
+      "description": "The quality of purity and clarity among the three guṇas; actions, knowledge, intellect, etc. of this type are deemed highest."
+    },
+    {
+      "id": "sattvik",
+      "category": "concept",
+      "primary_marathi": "सात्विक",
+      "primary_roman": "sātvik",
+      "marathi_forms": [
+        "सात्विक",
+        "सत्विक"
+      ],
+      "roman_forms": [
+        "sātvik",
+        "satvik"
+      ],
+      "description": "Pertaining to sattva, the quality of purity and balance; the highest of the three modes of faith, food, sacrifice, austerity and gift."
+    },
+    {
+      "id": "sattvika",
+      "category": "concept",
+      "primary_marathi": "सात्विक",
+      "primary_roman": "sātvika",
+      "marathi_forms": [
+        "सात्विकादिक"
+      ],
+      "roman_forms": [
+        "sātvikādik"
+      ],
+      "description": "Pertaining to sattva; the three modes (sattvika, rajasika, tamasika) of states/feelings arising from Krishna."
+    },
+    {
+      "id": "satyaki",
+      "category": "person",
+      "primary_marathi": "सात्यकी",
+      "primary_roman": "sātyakī",
+      "marathi_forms": [
+        "सात्यकी",
+        "सात्यकि"
+      ],
+      "roman_forms": [
+        "sātyakī",
+        "sātyaki"
+      ],
+      "description": "A Yadava warrior allied with the Pandavas."
+    },
+    {
+      "id": "saubhadra",
+      "category": "person",
+      "primary_marathi": "सौभद्र",
+      "primary_roman": "saubhadra",
+      "marathi_forms": [
+        "सौभद्र"
+      ],
+      "roman_forms": [
+        "saubhadr"
+      ],
+      "description": "\"Son of Subhadra,\" i.e. Abhimanyu, son of Arjuna and a warrior on the Pandava side."
+    },
+    {
+      "id": "saumadatti",
+      "category": "person",
+      "primary_marathi": "सौमदत्ती",
+      "primary_roman": "saumadattī",
+      "marathi_forms": [
+        "सौमदत्ती"
+      ],
+      "roman_forms": [
+        "saumadattī"
+      ],
+      "description": "\"Son of Somadatta,\" i.e. Bhurishrava, a warrior on the Kaurava side."
+    },
+    {
+      "id": "savya-sachi",
+      "category": "person",
+      "primary_marathi": "सव्य-साची",
+      "primary_roman": "savya-sācī",
+      "marathi_forms": [
+        "सव्य-साची"
+      ],
+      "roman_forms": [
+        "savya-sācī"
+      ],
+      "description": "An epithet of Arjuna meaning one who can shoot the bow with either hand."
+    },
+    {
+      "id": "sayujya",
+      "category": "concept",
+      "primary_marathi": "सायुज्य",
+      "primary_roman": "sāyujya",
+      "marathi_forms": [
+        "सायुज्य"
+      ],
+      "roman_forms": [
+        "sāyujy"
+      ],
+      "description": "Union with or absorption into the supreme; the goal attained by the realized devotee."
+    },
+    {
+      "id": "shaibya",
+      "category": "person",
+      "primary_marathi": "शैब्य",
+      "primary_roman": "śaibya",
+      "marathi_forms": [
+        "शैब्य"
+      ],
+      "roman_forms": [
+        "śaiby"
+      ],
+      "description": "A king allied with the Pandavas, described as foremost among men."
+    },
+    {
+      "id": "shankha",
+      "category": "object",
+      "primary_marathi": "शंख",
+      "primary_roman": "śaṅkha",
+      "marathi_forms": [
+        "शंख",
+        "शंखभेर्यादि"
+      ],
+      "roman_forms": [
+        "śaṅkh",
+        "śaṅkhabhēryādi"
+      ],
+      "description": "A conch shell blown as a war trumpet to signal the start of battle."
+    },
+    {
+      "id": "sharanagati",
+      "category": "concept",
+      "primary_marathi": "शरणागति",
+      "primary_roman": "śaraṇāgati",
+      "marathi_forms": [
+        "शरणागति"
+      ],
+      "roman_forms": [
+        "śaraṇāgati"
+      ],
+      "description": "Surrender or taking refuge in God; attained after many births by the rare realized one."
+    },
+    {
+      "id": "shashvata-dharma",
+      "category": "concept",
+      "primary_marathi": "शाश्वत-धर्म",
+      "primary_roman": "śāśvata-dharm",
+      "marathi_forms": [
+        "शाश्वत-धर्म"
+      ],
+      "roman_forms": [
+        "śāśvata-dharm"
+      ],
+      "description": "The eternal moral order, which Arjuna says Krishna preserves."
+    },
+    {
+      "id": "shastra",
+      "category": "concept",
+      "primary_marathi": "शास्त्र",
+      "primary_roman": "śāstr",
+      "marathi_forms": [
+        "शास्त्र"
+      ],
+      "roman_forms": [
+        "śāstr"
+      ],
+      "description": "The teaching or doctrine; here Krishna calls this most secret teaching, knowing which one becomes accomplished."
+    },
+    {
+      "id": "shesha",
+      "category": "person",
+      "primary_marathi": "शेष",
+      "primary_roman": "śēṣ",
+      "marathi_forms": [
+        "शेष"
+      ],
+      "roman_forms": [
+        "śēṣ"
+      ],
+      "description": "The cosmic serpent Shesha (Ananta); Krishna says among the nagas he is Shesha."
+    },
+    {
+      "id": "shikhandi",
+      "category": "person",
+      "primary_marathi": "शिखंडी",
+      "primary_roman": "śikhaṇḍī",
+      "marathi_forms": [
+        "शिखंडी"
+      ],
+      "roman_forms": [
+        "śikhaṇḍī"
+      ],
+      "description": "A Panchala warrior on the Pandava side, key in the defeat of Bhishma."
+    },
+    {
+      "id": "shraddha",
+      "category": "concept",
+      "primary_marathi": "श्रद्धा",
+      "primary_roman": "śraddhā",
+      "marathi_forms": [
+        "श्रद्धा",
+        "श्रद्धेचा",
+        "अश्रद्धेनें"
+      ],
+      "roman_forms": [
+        "śraddhā",
+        "śraddhēcā",
+        "aśraddhēnēṁ"
+      ],
+      "description": "Faith or trust; the chapter explains it as threefold according to one's innate nature, and acts done without it (aśraddhā) are called fruitless."
+    },
+    {
+      "id": "shri-bhagavan",
+      "category": "person",
+      "primary_marathi": "श्री भगवान्",
+      "primary_roman": "śrī bhagavān",
+      "marathi_forms": [
+        "श्री भगवान्"
+      ],
+      "roman_forms": [
+        "śrī bhagavān"
+      ],
+      "description": "Title for Krishna as the speaker of the Gita; literally the Lord. Here he expounds the imperishable cosmic tree and the supreme person."
+    },
+    {
+      "id": "shudra",
+      "category": "concept",
+      "primary_marathi": "शूद्र",
+      "primary_roman": "śūdr",
+      "marathi_forms": [
+        "शूद्र-कर्म"
+      ],
+      "roman_forms": [
+        "śūdra-karm"
+      ],
+      "description": "The varna whose natural work is service."
+    },
+    {
+      "id": "shuklapaksha",
+      "category": "concept",
+      "primary_marathi": "शुक्लार्ध",
+      "primary_roman": "śuklārdh",
+      "marathi_forms": [
+        "शुक्लार्ध"
+      ],
+      "roman_forms": [
+        "śuklārdh"
+      ],
+      "description": "The bright half of the lunar month, part of the path leading to brahman."
+    },
+    {
+      "id": "siddha",
+      "category": "concept",
+      "primary_marathi": "सिद्ध",
+      "primary_roman": "siddha",
+      "marathi_forms": [
+        "सिद्धीं"
+      ],
+      "roman_forms": [
+        "siddhīṅ"
+      ],
+      "description": "Perfected beings; Krishna says among them he is the sage Kapila."
+    },
+    {
+      "id": "siddhi",
+      "category": "concept",
+      "primary_marathi": "सिद्धि",
+      "primary_roman": "siddhi",
+      "marathi_forms": [
+        "महा-सिद्धि",
+        "सिद्धीस"
+      ],
+      "roman_forms": [
+        "mahā-siddhi",
+        "siddhīs"
+      ],
+      "description": "Spiritual attainment or perfection, reached through renunciation and discipline."
+    },
+    {
+      "id": "skanda",
+      "category": "person",
+      "primary_marathi": "स्कंद",
+      "primary_roman": "skand",
+      "marathi_forms": [
+        "स्कंद"
+      ],
+      "roman_forms": [
+        "skand"
+      ],
+      "description": "Kartikeya, war-god; Krishna says among military commanders he is Skanda."
+    },
+    {
+      "id": "soma",
+      "category": "concept",
+      "primary_marathi": "सोम",
+      "primary_roman": "sōm",
+      "marathi_forms": [
+        "सोम"
+      ],
+      "roman_forms": [
+        "sōm"
+      ],
+      "description": "The moon or the lunar nourishing essence; the Lord says he becomes soma to nourish plants with sap."
+    },
+    {
+      "id": "srishti",
+      "category": "concept",
+      "primary_marathi": "सृष्टि",
+      "primary_roman": "sr̥ṣṭi",
+      "marathi_forms": [
+        "सृष्टीची"
+      ],
+      "roman_forms": [
+        "sr̥ṣṭīcī"
+      ],
+      "description": "Creation or the created world that revolves through nature's cycle."
+    },
+    {
+      "id": "sthitaprajna",
+      "category": "concept",
+      "primary_marathi": "स्थित-प्रज्ञ",
+      "primary_roman": "sthita-prajñ",
+      "marathi_forms": [
+        "स्थित-प्रज्ञ"
+      ],
+      "roman_forms": [
+        "sthita-prajñ"
+      ],
+      "description": "One of steady wisdom; the person whose intellect is firm and unshaken amid all circumstances."
+    },
+    {
+      "id": "sughosha",
+      "category": "object",
+      "primary_marathi": "सुघोष",
+      "primary_roman": "sughōṣa",
+      "marathi_forms": [
+        "सुघोष"
+      ],
+      "roman_forms": [
+        "sughōṣ"
+      ],
+      "description": "The conch of Nakula."
+    },
+    {
+      "id": "surya",
+      "category": "person",
+      "primary_marathi": "सूर्य",
+      "primary_roman": "sūry",
+      "marathi_forms": [
+        "सूर्य"
+      ],
+      "roman_forms": [
+        "sūry"
+      ],
+      "description": "The sun deity; Krishna says among luminaries he is the sun."
+    },
+    {
+      "id": "sva-dharma",
+      "category": "concept",
+      "primary_marathi": "स्व-धर्म",
+      "primary_roman": "sva-dharma",
+      "marathi_forms": [
+        "स्व-धर्मांत"
+      ],
+      "roman_forms": [
+        "sva-dharmānt"
+      ],
+      "description": "One's own duty; said to be better even if imperfectly done than another's duty done well."
+    },
+    {
+      "id": "svabhava",
+      "category": "concept",
+      "primary_marathi": "स्वभाव",
+      "primary_roman": "svabhāva",
+      "marathi_forms": [
+        "स्वभाव-वश"
+      ],
+      "roman_forms": [
+        "svabhāva-vaś"
+      ],
+      "description": "One's innate nature; people follow various observances according to their own nature."
+    },
+    {
+      "id": "svadharma",
+      "category": "concept",
+      "primary_marathi": "स्वधर्म",
+      "primary_roman": "svadharm",
+      "marathi_forms": [
+        "स्वधर्म",
+        "स्वधर्मासह"
+      ],
+      "roman_forms": [
+        "svadharm",
+        "svadharmāsah"
+      ],
+      "description": "One's own duty according to one's nature and station in life."
+    },
+    {
+      "id": "svadhyaya",
+      "category": "concept",
+      "primary_marathi": "स्वाध्याय",
+      "primary_roman": "svādhyāy",
+      "marathi_forms": [
+        "स्वाध्याय"
+      ],
+      "roman_forms": [
+        "svādhyāy"
+      ],
+      "description": "Regular self-study or recitation of scripture; counted as part of the austerity of speech."
+    },
+    {
+      "id": "svarga",
+      "category": "place",
+      "primary_marathi": "स्वर्ग",
+      "primary_roman": "svarg",
+      "marathi_forms": [
+        "स्वर्ग",
+        "स्वर्गातें"
+      ],
+      "roman_forms": [
+        "svarg",
+        "svargātēm"
+      ],
+      "description": "Heaven, the realm of pleasures attained through merit, but temporary."
+    },
+    {
+      "id": "tamas",
+      "category": "concept",
+      "primary_marathi": "तामस",
+      "primary_roman": "tāmas",
+      "marathi_forms": [
+        "तामस"
+      ],
+      "roman_forms": [
+        "tāmas"
+      ],
+      "description": "The quality of darkness, inertia, and delusion among the three guṇas, the lowest of the three types."
+    },
+    {
+      "id": "tapa",
+      "category": "concept",
+      "primary_marathi": "तप",
+      "primary_roman": "tap",
+      "marathi_forms": [
+        "तप",
+        "तपें"
+      ],
+      "roman_forms": [
+        "tap",
+        "tapēṅ"
+      ],
+      "description": "Austerity or disciplined effort, one of the purifying acts not to be given up."
+    },
+    {
+      "id": "tapas",
+      "category": "concept",
+      "primary_marathi": "तप",
+      "primary_roman": "tap",
+      "marathi_forms": [
+        "तपांत"
+      ],
+      "roman_forms": [
+        "tapānt"
+      ],
+      "description": "Austerity or penance; one of the meritorious acts whose fruit the yogi transcends."
+    },
+    {
+      "id": "tatva-jna",
+      "category": "concept",
+      "primary_marathi": "तत्व-ज्ञ",
+      "primary_roman": "tatva-jña",
+      "marathi_forms": [
+        "तत्व-ज्ञ"
+      ],
+      "roman_forms": [
+        "tatva-jñ"
+      ],
+      "description": "The knower of truth/reality, who is not entangled though the guṇas act upon the guṇas."
+    },
+    {
+      "id": "tatva-vada",
+      "category": "concept",
+      "primary_marathi": "तत्व-वाद",
+      "primary_roman": "tatva-vād",
+      "marathi_forms": [
+        "तत्व-वाद"
+      ],
+      "roman_forms": [
+        "tatva-vād"
+      ],
+      "description": "Reasoned discourse on truth/principles; Krishna says among debaters he is right argument (tatva-vada)."
+    },
+    {
+      "id": "trigunatita",
+      "category": "concept",
+      "primary_marathi": "त्रिगुणातीत",
+      "primary_roman": "triguṇātīta",
+      "marathi_forms": [
+        "त्रिगुणातीत",
+        "गुणातीत"
+      ],
+      "roman_forms": [
+        "triguṇātīt",
+        "guṇātīt"
+      ],
+      "description": "One who has transcended the three guṇas of Nature; the ideal state described in this chapter."
+    },
+    {
+      "id": "tyaga",
+      "category": "concept",
+      "primary_marathi": "त्याग",
+      "primary_roman": "tyāg",
+      "marathi_forms": [
+        "त्याग",
+        "त्यागाचें",
+        "त्यागी",
+        "त्याग-हीनास"
+      ],
+      "roman_forms": [
+        "tyāg",
+        "tyāgācēṁ",
+        "tyāgī",
+        "tyāga-hīnās"
+      ],
+      "description": "Relinquishment, defined as giving up the fruit of all action; classified into sattvic, rajasic, and tamasic kinds."
+    },
+    {
+      "id": "uchchaihshrava",
+      "category": "object",
+      "primary_marathi": "उच्चैःश्रवा",
+      "primary_roman": "uccaiḥśravā",
+      "marathi_forms": [
+        "उच्चैःश्रवा"
+      ],
+      "roman_forms": [
+        "uccaiḥśravā"
+      ],
+      "description": "The horse that arose from the churning of the ocean of nectar; Krishna identifies himself with it among horses."
+    },
+    {
+      "id": "ushana",
+      "category": "person",
+      "primary_marathi": "उशना",
+      "primary_roman": "uśanā",
+      "marathi_forms": [
+        "उशना"
+      ],
+      "roman_forms": [
+        "uśanā"
+      ],
+      "description": "Ushanas (Shukra), seer-poet; Krishna says among poets/seers he is Ushanas."
+    },
+    {
+      "id": "uttamauja",
+      "category": "person",
+      "primary_marathi": "उत्तमौजा",
+      "primary_roman": "uttamaujā",
+      "marathi_forms": [
+        "उत्तमौजा"
+      ],
+      "roman_forms": [
+        "uttamaujā"
+      ],
+      "description": "A valiant warrior of Panchala fighting for the Pandavas."
+    },
+    {
+      "id": "uttarayana",
+      "category": "concept",
+      "primary_marathi": "उत्तरायण",
+      "primary_roman": "uttarāyaṇ",
+      "marathi_forms": [
+        "उत्तरायण"
+      ],
+      "roman_forms": [
+        "uttarāyaṇ"
+      ],
+      "description": "The northern course of the sun; the bright path (fire, day, waxing fortnight) by which the departed reach brahman without return."
+    },
+    {
+      "id": "vairagya",
+      "category": "concept",
+      "primary_marathi": "वैराग्य",
+      "primary_roman": "vairāgy",
+      "marathi_forms": [
+        "वैराग्य"
+      ],
+      "roman_forms": [
+        "vairāgy"
+      ],
+      "description": "Detachment or dispassion, described as the weapon with which to cut down the deep-rooted tree of worldly existence."
+    },
+    {
+      "id": "vaishvanara",
+      "category": "concept",
+      "primary_marathi": "वैश्वानर",
+      "primary_roman": "vaiśvānar",
+      "marathi_forms": [
+        "वैश्वानर-रुपानें"
+      ],
+      "roman_forms": [
+        "vaiśvānara-rupānēm"
+      ],
+      "description": "The digestive fire residing in living beings; the Lord in this form digests food using the prāṇa and apāna breaths."
+    },
+    {
+      "id": "vaishya",
+      "category": "concept",
+      "primary_marathi": "वैश्य",
+      "primary_roman": "vaiśy",
+      "marathi_forms": [
+        "वैश्य"
+      ],
+      "roman_forms": [
+        "vaiśy"
+      ],
+      "description": "The varna whose natural work is farming, trade, and cattle-tending."
+    },
+    {
+      "id": "vajra",
+      "category": "object",
+      "primary_marathi": "वज्र",
+      "primary_roman": "vajr",
+      "marathi_forms": [
+        "वज्र"
+      ],
+      "roman_forms": [
+        "vajr"
+      ],
+      "description": "The thunderbolt weapon (of Indra); Krishna says among weapons he is the vajra."
+    },
+    {
+      "id": "varna",
+      "category": "concept",
+      "primary_marathi": "वर्ण",
+      "primary_roman": "varṇ",
+      "marathi_forms": [
+        "वर्णांची"
+      ],
+      "roman_forms": [
+        "varṇāñcī"
+      ],
+      "description": "The social-functional classes (brahmana, kshatriya, vaishya, shudra) whose duties are apportioned by innate qualities."
+    },
+    {
+      "id": "varna-sankara",
+      "category": "concept",
+      "primary_marathi": "वर्ण-संकर",
+      "primary_roman": "varṇa-saṅkara",
+      "marathi_forms": [
+        "वर्ण-संकर",
+        "वर्ण संकर",
+        "संकरें"
+      ],
+      "roman_forms": [
+        "varṇa-saṅkar",
+        "varṇ saṅkar",
+        "saṅkarēn"
+      ],
+      "description": "The intermixing or confusion of social classes, feared as a consequence of the breakdown of family order."
+    },
+    {
+      "id": "varuna",
+      "category": "person",
+      "primary_marathi": "वरुण",
+      "primary_roman": "varuṇa",
+      "marathi_forms": [
+        "वरुण-देवता"
+      ],
+      "roman_forms": [
+        "varuṇa-dēvatā"
+      ],
+      "description": "Deity of the waters; Krishna says among water-beings he is Varuna."
+    },
+    {
+      "id": "vasana",
+      "category": "concept",
+      "primary_marathi": "वासना",
+      "primary_roman": "vāsanā",
+      "marathi_forms": [
+        "वासना"
+      ],
+      "roman_forms": [
+        "vāsanā"
+      ],
+      "description": "Desire or longing; Krishna is the desire in beings that does not transgress dharma."
+    },
+    {
+      "id": "vasu",
+      "category": "concept",
+      "primary_marathi": "वसु",
+      "primary_roman": "vasu",
+      "marathi_forms": [
+        "वसूंत"
+      ],
+      "roman_forms": [
+        "vasūnt"
+      ],
+      "description": "The Vasus, a group of elemental deities; Krishna says among them he is Agni."
+    },
+    {
+      "id": "vasudeva",
+      "category": "person",
+      "primary_marathi": "वासुदेव",
+      "primary_roman": "vāsudēv",
+      "marathi_forms": [
+        "वासुदेव"
+      ],
+      "roman_forms": [
+        "vāsudēv"
+      ],
+      "description": "Name of Krishna (son of Vasudeva); Krishna says 'among the Vrishnis I am Vasudeva.'"
+    },
+    {
+      "id": "vasuki",
+      "category": "person",
+      "primary_marathi": "वासुकी",
+      "primary_roman": "vāsukī",
+      "marathi_forms": [
+        "वासुकी"
+      ],
+      "roman_forms": [
+        "vāsukī"
+      ],
+      "description": "King of the serpents; Krishna says among serpents he is Vasuki."
+    },
+    {
+      "id": "vayu",
+      "category": "person",
+      "primary_marathi": "वायु",
+      "primary_roman": "vāyu",
+      "marathi_forms": [
+        "वायु"
+      ],
+      "roman_forms": [
+        "vāyu"
+      ],
+      "description": "The wind deity, named among the powers present in and identified with the cosmic form."
+    },
+    {
+      "id": "veda",
+      "category": "concept",
+      "primary_marathi": "वेद",
+      "primary_roman": "vēd",
+      "marathi_forms": [
+        "वेद",
+        "वेदांस"
+      ],
+      "roman_forms": [
+        "vēd",
+        "vēdāṁs"
+      ],
+      "description": "The body of foundational scriptural knowledge; said to be the leaves of the cosmic tree and that which the Lord is ultimately to be known by."
+    },
+    {
+      "id": "vibhuti",
+      "category": "concept",
+      "primary_marathi": "विभूति",
+      "primary_roman": "vibhūti",
+      "marathi_forms": [
+        "विभूति",
+        "विभूतींस",
+        "विभूति-विस्तार",
+        "विभूति-युक्त",
+        "विभूतींत"
+      ],
+      "roman_forms": [
+        "vibhūti",
+        "vibhūtīṁs",
+        "vibhūti-vistār",
+        "vibhūti-yukt",
+        "vibhūtīnt"
+      ],
+      "description": "Divine manifestation or glory of Krishna; the theme of this chapter, listing the forms in which his power is expressed."
+    },
+    {
+      "id": "vidhata",
+      "category": "person",
+      "primary_marathi": "विधाता",
+      "primary_roman": "vidhātā",
+      "marathi_forms": [
+        "विधाता"
+      ],
+      "roman_forms": [
+        "vidhātā"
+      ],
+      "description": "The creator Brahma, seen seated in meditation on the lotus within the cosmic form."
+    },
+    {
+      "id": "vijnana",
+      "category": "concept",
+      "primary_marathi": "विज्ञान",
+      "primary_roman": "vijñān",
+      "marathi_forms": [
+        "विज्ञानें"
+      ],
+      "roman_forms": [
+        "vijñānēṅ"
+      ],
+      "description": "Realized or applied knowledge, the experiential complement to jñāna."
+    },
+    {
+      "id": "vikarma",
+      "category": "concept",
+      "primary_marathi": "विकर्म",
+      "primary_roman": "vikarma",
+      "marathi_forms": [
+        "विकर्म"
+      ],
+      "roman_forms": [
+        "vikarm"
+      ],
+      "description": "Forbidden or wrong action, contrasted with ordinary action (karma) and inaction (akarma)."
+    },
+    {
+      "id": "vikarna",
+      "category": "person",
+      "primary_marathi": "विकर्ण",
+      "primary_roman": "vikarṇa",
+      "marathi_forms": [
+        "विकर्ण"
+      ],
+      "roman_forms": [
+        "vikarṇ"
+      ],
+      "description": "One of Dhritarashtra's sons, a warrior on the Kaurava side."
+    },
+    {
+      "id": "virat",
+      "category": "concept",
+      "primary_marathi": "विराट",
+      "primary_roman": "virāṭ",
+      "marathi_forms": [
+        "विराट"
+      ],
+      "roman_forms": [
+        "virāṭ"
+      ],
+      "description": "The cosmic, all-pervading form; Krishna calls himself the world-maker, the Virat (universal) self."
+    },
+    {
+      "id": "virata",
+      "category": "person",
+      "primary_marathi": "विराट",
+      "primary_roman": "virāṭa",
+      "marathi_forms": [
+        "विराट"
+      ],
+      "roman_forms": [
+        "virāṭ"
+      ],
+      "description": "King of Matsya, an ally fighting for the Pandavas."
+    },
+    {
+      "id": "vishnu",
+      "category": "person",
+      "primary_marathi": "विष्णु",
+      "primary_roman": "viṣṇu",
+      "marathi_forms": [
+        "महा-विष्णु"
+      ],
+      "roman_forms": [
+        "mahā-viṣṇu"
+      ],
+      "description": "The deity Vishnu; Krishna says among the Adityas he is Vishnu."
+    },
+    {
+      "id": "vishva-chalak",
+      "category": "concept",
+      "primary_marathi": "विश्व-चाळक",
+      "primary_roman": "viśva-cāḷak",
+      "marathi_forms": [
+        "विश्व-चाळक",
+        "विश्वारंभ"
+      ],
+      "roman_forms": [
+        "viśva-cāḷak",
+        "viśvārambh"
+      ],
+      "description": "Mover/director of the universe; an epithet of the Lord as its source and sustainer."
+    },
+    {
+      "id": "vishva-rupa",
+      "category": "concept",
+      "primary_marathi": "विश्व-रुप",
+      "primary_roman": "viśva-rup",
+      "marathi_forms": [
+        "विश्व-रुप",
+        "विश्व-रुपी",
+        "विश्व-व्यापी",
+        "विश्व-मूर्तें"
+      ],
+      "roman_forms": [
+        "viśva-rup",
+        "viśva-rupī",
+        "viśva-vyāpī",
+        "viśva-mūrtēṁ"
+      ],
+      "description": "The universal or cosmic form of Krishna, encompassing all beings and worlds, revealed in this chapter."
+    },
+    {
+      "id": "vishvedeva",
+      "category": "person",
+      "primary_marathi": "विश्वे",
+      "primary_roman": "viśvē",
+      "marathi_forms": [
+        "विश्वे"
+      ],
+      "roman_forms": [
+        "viśvē"
+      ],
+      "description": "The Vishvedevas, a group of universal deities, seen within the cosmic form."
+    },
+    {
+      "id": "vishveshvara",
+      "category": "concept",
+      "primary_marathi": "विश्वेश्वर",
+      "primary_roman": "viśvēśvar",
+      "marathi_forms": [
+        "विश्वेश्वर"
+      ],
+      "roman_forms": [
+        "viśvēśvar"
+      ],
+      "description": "Lord of the universe; an epithet of the supreme person who nourishes and pervades the world and is imperishable (avyaya)."
+    },
+    {
+      "id": "vrata",
+      "category": "concept",
+      "primary_marathi": "व्रत",
+      "primary_roman": "vrata",
+      "marathi_forms": [
+        "व्रतें"
+      ],
+      "roman_forms": [
+        "vratēm"
+      ],
+      "description": "Vows or observances kept rigorously by the self-controlled as part of their sacrificial discipline."
+    },
+    {
+      "id": "vrishni",
+      "category": "concept",
+      "primary_marathi": "वृष्णि",
+      "primary_roman": "vr̥ṣṇi",
+      "marathi_forms": [
+        "वृष्णींत"
+      ],
+      "roman_forms": [
+        "vr̥ṣṇīnt"
+      ],
+      "description": "The Vrishni clan to which Krishna belongs; he says among the Vrishnis he is Vasudeva."
+    },
+    {
+      "id": "vyakta",
+      "category": "concept",
+      "primary_marathi": "व्यक्त",
+      "primary_roman": "vyakta",
+      "marathi_forms": [
+        "व्यक्त"
+      ],
+      "roman_forms": [
+        "vyakt"
+      ],
+      "description": "The manifest, perceptible form; the unwise take Krishna to be only this."
+    },
+    {
+      "id": "vyasa",
+      "category": "person",
+      "primary_marathi": "व्यास",
+      "primary_roman": "vyās",
+      "marathi_forms": [
+        "व्यास"
+      ],
+      "roman_forms": [
+        "vyās"
+      ],
+      "description": "The sage Vyasa, traditional compiler of the Vedas and author of the Mahabharata; Krishna says among sages he is Vyasa."
+    },
+    {
+      "id": "yajna",
+      "category": "concept",
+      "primary_marathi": "यज्ञ",
+      "primary_roman": "yajña",
+      "marathi_forms": [
+        "यज्ञांत"
+      ],
+      "roman_forms": [
+        "yajñānt"
+      ],
+      "description": "Ritual sacrifice/offering; Krishna says among sacrifices he is japa (quiet recitation)."
+    },
+    {
+      "id": "yaksha",
+      "category": "concept",
+      "primary_marathi": "यक्ष",
+      "primary_roman": "yakṣa",
+      "marathi_forms": [
+        "यक्ष-रक्षांत"
+      ],
+      "roman_forms": [
+        "yakṣa-rakṣānt"
+      ],
+      "description": "Nature-spirits (yakshas, paired with rakshas/demons); Krishna says among them he is Kubera."
+    },
+    {
+      "id": "yama",
+      "category": "person",
+      "primary_marathi": "यम",
+      "primary_roman": "yam",
+      "marathi_forms": [
+        "यम"
+      ],
+      "roman_forms": [
+        "yam"
+      ],
+      "description": "God of death; Krishna says among controllers/restrainers he is Yama."
+    },
+    {
+      "id": "yoga",
+      "category": "concept",
+      "primary_marathi": "योग",
+      "primary_roman": "yōga",
+      "marathi_forms": [
+        "योग",
+        "योग-युक्त",
+        "बुद्धि-योग"
+      ],
+      "roman_forms": [
+        "yōg",
+        "yōga-yukt",
+        "buddhi-yōg"
+      ],
+      "description": "Spiritual discipline / union; here including buddhi-yoga, the yoga of discriminating intelligence by which Krishna draws devotees to himself."
+    },
+    {
+      "id": "yoga-bhrashta",
+      "category": "concept",
+      "primary_marathi": "योग-भ्रष्ट",
+      "primary_roman": "yōga-bhraṣṭ",
+      "marathi_forms": [
+        "योग-भ्रष्ट"
+      ],
+      "roman_forms": [
+        "yōga-bhraṣṭ"
+      ],
+      "description": "One who has fallen from the path of yoga; after dwelling in higher worlds, such a one is reborn into a pure or yogic household."
+    },
+    {
+      "id": "yoga-kshema",
+      "category": "concept",
+      "primary_marathi": "याग-क्षेम",
+      "primary_roman": "yāga-kṣēm",
+      "marathi_forms": [
+        "याग-क्षेम"
+      ],
+      "roman_forms": [
+        "yāga-kṣēm"
+      ],
+      "description": "Securing what one lacks and protecting what one has; the Lord guarantees this for steadfast devotees."
+    },
+    {
+      "id": "yoga-maya",
+      "category": "concept",
+      "primary_marathi": "योग-माया",
+      "primary_roman": "yōga-māyā",
+      "marathi_forms": [
+        "योग-मायेनें"
+      ],
+      "roman_forms": [
+        "yōga-māyēnēṁ"
+      ],
+      "description": "Krishna's veiling power; he remains hidden by it so the deluded do not recognize his unborn, eternal nature."
+    },
+    {
+      "id": "yoga-siddhi",
+      "category": "concept",
+      "primary_marathi": "योग-सिद्धी",
+      "primary_roman": "yōga-siddhī",
+      "marathi_forms": [
+        "योग-सिद्धीस"
+      ],
+      "roman_forms": [
+        "yōga-siddhīs"
+      ],
+      "description": "Perfection or accomplishment in yoga, which the one who strays from yoga fails to attain."
+    },
+    {
+      "id": "yogarudha",
+      "category": "concept",
+      "primary_marathi": "योगारूढ",
+      "primary_roman": "yōgārūḍh",
+      "marathi_forms": [
+        "योगारूढ"
+      ],
+      "roman_forms": [
+        "yōgārūḍh"
+      ],
+      "description": "One established in yoga, who is unattached to actions and objects and has given up all resolves."
+    },
+    {
+      "id": "yogeshvara",
+      "category": "person",
+      "primary_marathi": "योगेश्वर",
+      "primary_roman": "yōgēśvar",
+      "marathi_forms": [
+        "योगेश्वरा"
+      ],
+      "roman_forms": [
+        "yōgēśvarā"
+      ],
+      "description": "Epithet of Krishna meaning 'lord of yoga'; vocative used by Arjuna."
+    },
+    {
+      "id": "yogi",
+      "category": "concept",
+      "primary_marathi": "योगी",
+      "primary_roman": "yōgī",
+      "marathi_forms": [
+        "योगी"
+      ],
+      "roman_forms": [
+        "yōgī"
+      ],
+      "description": "A practitioner of yoga; one disciplined in spiritual union. Here it refers to those devoted to either the personal or impersonal divine."
+    },
+    {
+      "id": "yoni",
+      "category": "concept",
+      "primary_marathi": "योनी",
+      "primary_roman": "yōnī",
+      "marathi_forms": [
+        "योनी",
+        "योनींत"
+      ],
+      "roman_forms": [
+        "yōnī",
+        "yōnīnt"
+      ],
+      "description": "Womb or class of birth; here referring to the wombs/births into which those of demoniac nature are cast."
+    },
+    {
+      "id": "yudhamanyu",
+      "category": "person",
+      "primary_marathi": "युधामन्यु",
+      "primary_roman": "yudhāmanyu",
+      "marathi_forms": [
+        "युधामन्यु"
+      ],
+      "roman_forms": [
+        "yudhāmanyu"
+      ],
+      "description": "A valiant Panchala warrior on the Pandava side."
+    },
+    {
+      "id": "yudhishthira",
+      "category": "person",
+      "primary_marathi": "युधिष्ठिर",
+      "primary_roman": "yudhiṣṭhira",
+      "marathi_forms": [
+        "युधिष्ठिरें"
+      ],
+      "roman_forms": [
+        "yudhiṣṭhirēṁ"
+      ],
+      "description": "Eldest of the Pandava brothers; he blows the conch Anantavijaya."
+    },
+    {
+      "id": "yuga",
+      "category": "concept",
+      "primary_marathi": "युग",
+      "primary_roman": "yug",
+      "marathi_forms": [
+        "युग"
+      ],
+      "roman_forms": [
+        "yug"
+      ],
+      "description": "A cosmic age; a thousand yugas make up a single day of Brahma."
+    }
+  ]
+}

@@ -1,1 +1,1 @@
-In the app/ folder, we're going to produce a visualization to read the Geetai. First, we will need to clean 
+In the app/ folder, we're going to produce a visualization to read the Geetai. First, we will need to clean up the geetai.txt which is an OCR'ed 

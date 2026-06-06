@@ -1,0 +1,14 @@
+{
+  "name": "geetai-scripts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Build scripts for geetai_web (parser, OCR corrector, transliteration).",
+  "scripts": {
+    "parse": "node scripts/parse-geetai.mjs",
+    "correct": "node scripts/correct-ocr.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.88.0"
+  }
+}

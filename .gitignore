@@ -5,6 +5,7 @@ geetai.pdf
 .env
 .env.local
 .env.*.local
+*.env
 
 node_modules/
 dist/
@@ -16,3 +17,11 @@ build/
 .vscode/
 .idea/
 *.swp
+
+scripts/.ocr-corrections.json
+/tmp/geetai-pages/
+
+# Source font archives (variable TTFs the app uses are committed under app/fonts/)
+/fonts/
+/*.ttf
+

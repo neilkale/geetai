@@ -1,0 +1,336 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: var(--font-serif-dev), Georgia, "Iowan Old Style", serif;
+  --font-sans: var(--font-sans-dev), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-display-dev), var(--font-serif-dev), Georgia, serif;
+}
+
+:root {
+  --color-bg: #fbf7f0;
+  --color-ink: #1c1917;
+  --color-muted: #78716c;    /* stone-500 */
+  --color-faint: #a8a29e;    /* stone-400 */
+  --color-fainter: #d6d3d1;  /* stone-300 */
+  --color-line: #e7e5e4;     /* stone-200 */
+  --color-line-strong: #a8a29e; /* stone-400 */
+  --color-hover-bg: #f5f5f4; /* stone-100 */
+  --color-hl-bg: rgb(252 211 77 / 0.35); /* amber-300 / 35% */
+  --color-hl-line: rgb(180 83 9);        /* amber-700 */
+}
+
+/* ---------- base ---------- */
+
+html {
+  font-family: var(--font-serif);
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-serif);
+  font-feature-settings: "kern", "liga";
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 120ms ease;
+}
+
+/* ---------- home (index) ---------- */
+
+.home {
+  max-width: 48rem;
+  margin: 0 auto;
+  padding: 4rem 1.5rem;
+}
+
+.home-header {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.home-title {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-style: normal;
+  font-size: 4.5rem;
+  line-height: 1;
+  letter-spacing: -0.01em;
+  margin-bottom: 0.75rem;
+}
+
+.home-tagline {
+  font-family: var(--font-sans);
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: var(--color-muted);
+}
+
+.chapter-list {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 40rem) {
+  .chapter-list {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.chapter-card {
+  display: block;
+  padding: 1rem;
+  border: 1px solid var(--color-line);
+  border-radius: 0.5rem;
+  height: 100%;
+  transition: background-color 120ms ease, border-color 120ms ease;
+}
+
+.chapter-card:hover {
+  background: var(--color-hover-bg);
+  border-color: var(--color-line-strong);
+}
+
+.chapter-card-ord {
+  font-family: var(--font-sans);
+  font-weight: 400;
+  font-size: 0.875rem;
+  color: var(--color-muted);
+}
+
+.chapter-card-title {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 1.3;
+  margin-top: 0.375rem;
+  letter-spacing: -0.005em;
+}
+
+.chapter-card-count {
+  font-family: var(--font-sans);
+  font-weight: 350;
+  font-size: 0.75rem;
+  color: var(--color-faint);
+  margin-top: 0.5rem;
+}
+
+.home-footer {
+  text-align: center;
+  font-family: var(--font-sans);
+  font-weight: 350;
+  font-size: 0.75rem;
+  color: var(--color-faint);
+  margin-top: 5rem;
+  letter-spacing: 0.05em;
+}
+
+/* ---------- chapter page ---------- */
+
+.chapter {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+}
+
+.chapter-nav {
+  font-family: var(--font-sans);
+  font-weight: 350;
+  font-size: 0.875rem;
+  margin-bottom: 2.5rem;
+}
+
+.chapter-nav-back,
+.chapter-nav-link {
+  color: var(--color-muted);
+}
+
+.chapter-nav-back:hover,
+.chapter-nav-link:hover {
+  color: var(--color-ink);
+}
+
+.chapter-header {
+  text-align: center;
+  margin-bottom: 3.5rem;
+}
+
+.chapter-ord {
+  font-family: var(--font-sans);
+  font-weight: 400;
+  font-size: 0.875rem;
+  color: var(--color-muted);
+  margin-bottom: 0.5rem;
+}
+
+.chapter-title {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 2.5rem;
+  line-height: 1.2;
+  margin-top: 0.5rem;
+  letter-spacing: -0.005em;
+}
+
+.verses {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.speaker-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.speaker {
+  font-family: var(--font-sans);
+  font-weight: 500;
+  font-size: 0.875rem;
+  color: var(--color-muted);
+  margin-bottom: 1.25rem;
+}
+
+.verse-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+  list-style: none;
+}
+
+.verse {
+  display: flex;
+  gap: 1.25rem;
+}
+
+.verse-num {
+  font-family: var(--font-sans);
+  font-weight: 350;
+  font-size: 0.75rem;
+  color: var(--color-faint);
+  width: 2rem;
+  flex-shrink: 0;
+  text-align: right;
+  padding-top: 0.6rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.verse-num.has-summary {
+  cursor: help;
+  transition: color 120ms ease, border-bottom-color 120ms ease;
+}
+
+.verse-num.has-summary > .verse-num-mark {
+  border-bottom: 1px dashed rgb(168 162 158 / 0.7);
+  padding-bottom: 1px;
+  transition: border-bottom-color 120ms ease, color 120ms ease;
+}
+
+.verse-num.has-summary:hover > .verse-num-mark,
+.verse-num.has-summary.active > .verse-num-mark {
+  color: var(--color-ink);
+  border-bottom-color: var(--color-hl-line);
+  border-bottom-style: solid;
+}
+
+.verse-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.verse-marathi {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 1.25rem;
+  line-height: 1.7;
+}
+
+.verse-roman {
+  font-family: var(--font-sans);
+  font-style: italic;
+  font-weight: 350;
+  font-size: 0.875rem;
+  color: var(--color-muted);
+  margin-top: 0.35rem;
+  line-height: 1.6;
+}
+
+.chapter-footer-nav {
+  display: flex;
+  justify-content: space-between;
+  font-family: var(--font-sans);
+  font-weight: 350;
+  font-size: 0.875rem;
+  margin-top: 5rem;
+}
+
+/* ---------- glossary tooltip ---------- */
+
+.gloss-term {
+  border-bottom: 1px dashed rgb(168 162 158 / 0.7);
+  cursor: help;
+  transition: background-color 120ms ease, border-bottom-color 120ms ease;
+}
+
+.gloss-term.gloss-active {
+  background-color: var(--color-hl-bg);
+  border-bottom-color: var(--color-hl-line);
+  border-bottom-style: solid;
+}
+
+.tooltip {
+  position: fixed;
+  pointer-events: none;
+  z-index: 50;
+  bottom: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(36rem, calc(100vw - 2rem));
+  padding: 1rem 1.25rem;
+  border-radius: 0.875rem;
+  background: rgb(28 25 23 / 0.88);
+  backdrop-filter: blur(12px);
+  color: #f5f5f4;
+  box-shadow: 0 10px 30px -5px rgb(0 0 0 / 0.25);
+}
+
+.tooltip-cat {
+  font-family: var(--font-sans);
+  font-weight: 500;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--color-faint);
+  margin-bottom: 0.4rem;
+}
+
+.tooltip-head {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  font-size: 1.375rem;
+  line-height: 1.25;
+}
+
+.tooltip-roman {
+  font-family: var(--font-sans);
+  font-style: italic;
+  font-weight: 350;
+  font-size: 1rem;
+  color: var(--color-fainter);
+  margin-left: 0.5rem;
+}
+
+.tooltip-desc {
+  font-family: var(--font-sans);
+  font-weight: 350;
+  font-size: 1rem;
+  color: #e7e5e4;
+  margin-top: 0.5rem;
+  line-height: 1.5;
+}
